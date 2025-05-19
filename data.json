@@ -1,0 +1,556 @@
+[
+{
+    "id": 1,
+	"src": "headers/Theta.webp",
+	"name": "Theta",
+	"date": "Mar 3, 2022",
+	"bio": "bios/Theta.txt"
+},
+{
+    "id": 2,
+	"src": "headers/Delta.webp",
+	"name": "Delta",
+	"date": "Mar 31, 2022",
+	"bio": "bios/Delta.txt"
+},
+{
+    "id": 3,
+	"src": "headers/Orion.webp",
+	"name": "Orion",
+	"date": "Mar 6, 2022",
+	"bio": "bios/Orion.txt"
+},
+{
+    "id": 4,
+	"src": "headers/Gamma.webp",
+	"name": "Gamma",
+	"date": "Oct 7, 2024",
+	"bio": "bios/Gamma.txt"
+},
+{
+    "id": 5,
+	"src": "headers/Kuromori.webp",
+	"name": "Kuromori",
+	"date": "Jul 9, 2022",
+	"bio": "bios/Kuromori.txt"
+},
+{
+    "id": 6,
+	"src": "headers/Knox.webp",
+	"name": "Knox",
+	"date": "May 5, 2023",
+	"bio": "bio/Knox.txt"
+},
+{
+    "id": 7,
+	"src": "headers/Resha.webp",
+	"name": "Resha",
+	"date": "Dec 8, 2020",
+	"bio": "bio/Resha.txt"
+},
+{
+    "id": 8,
+	"src": "headers/Zeku.webp",
+	"name": "Zeku",
+	"date": "Mar 10, 2022",
+	"bio": "bio/Zeku.txt"
+},
+{
+    "id": 9,
+	"src": "headers/Victoria.webp",
+	"name": "Victoria",
+	"date": "Jan 23, 2022",
+	"bio": "bios/Victoria.txt"
+},
+{
+    "id": 10,
+	"src": "headers/Vincent.webp",
+	"name": "Vincent Bitti",
+	"date": "Oct 3, 2022",
+	"bio": "bio/Vincent.txt"
+},
+{
+    "id": 11,
+	"src": "headers/Tobias.webp",
+	"name": "Tobias",
+	"date": "Feb 24, 2023",
+	"bio": "bio/Tobias.txt"
+},
+{
+    "id": 12,
+	"src": "headers/Moxie.webp",
+	"name": "Moxie",
+	"date": "Feb 24, 2023",
+	"bio": "bio/Moxie.txt"
+},
+{
+    "id": 13,
+	"src": "headers/Flumf.webp",
+	"name": "Flumf",
+	"date": "Jun 16, 2021",
+	"bio": "bio/Flumf.txt"
+},
+{
+    "id": 14,
+	"src": "headers/Flumf2.webp",
+	"name": "Flumf (Altered Form)",
+	"date": "Jan 18, 2022",
+	"bio": "bio/Flumf.txt"
+},
+{
+    "id": 15,
+	"src": "headers/Crimson.webp",
+	"name": "Crimson",
+	"date": "Jan 9, 2022",
+	"bio": "bio/Crimson.txt"
+},
+{
+    "id": 16,
+  "src": "headers/Lulu.webp",
+  "name": "Lulu",
+  "date": "Apr 26, 2021",
+  "bio": "bio/Lulu.txt"
+},
+{
+    "id": 17,
+ "src": "headers/Gira.webp",
+  "name": "Gira",
+  "date": "Jul 12, 2021",
+  "bio": "bio/Gira.txt"
+},
+{
+    "id": 18,
+ "src": "headers/Tina.webp",
+  "name": "Tina",
+  "date": "Nov 2, 2020",
+  "bio": "bio/Tina.txt"
+},
+{
+    "id": 19,
+  "src": "headers/Eugene.webp",
+  "name": "Eugene",
+  "date": "Jan 28, 2022",
+  "bio": "bio/Eugene.txt"
+},
+{
+    "id": 20,
+ "src": "headers/Maverick.webp",
+  "name": "Maverick",
+  "date": "Jan 28, 2022",
+  "bio": "bio/Maverick.txt"
+},
+{
+    "id": 21,
+  "src": "headers/Eros.webp",
+  "name": "Eros Lovecore",
+  "date": "Feb 9, 2023",
+  "bio": "bio/Eros.txt"
+},
+{
+    "id": 22,
+  "src": "headers/Galileo.webp",
+  "name": "Galileo",
+  "date": "Apr 9, 2023",
+  "bio": "bio/Galileo.txt"
+},
+{
+    "id": 23,
+  "src": "headers/Rocko.webp",
+  "name": "Rocko Stoneson",
+  "date": "Aug 21, 2023",
+  "bio": "bio/Rocko.txt"
+},
+{
+    "id": 24,
+  "src": "headers/Luna.webp",
+  "name": "Luna",
+  "date": "Oct 5, 2024",
+  "bio": "bio/Luna.txt"
+},
+{
+    "id": 25,
+  "src": "headers/Nova.webp",
+  "name": "Nova",
+  "date": "Jan 10, 2022",
+  "bio": "bio/Nova.txt"},
+{
+    "id": 26,
+  "src": "headers/Gabriel.webp",
+  "name": "Gabriel",
+  "date": "Jun 21, 2022",
+  "bio": "bio/Gabriel.txt"
+},
+{
+    "id": 27,
+"src": "headers/Blaster.webp",
+  "name": "Blaster",
+  "date": "Dec 15, 2021",
+  "bio": "bio/Blaster.txt"
+},
+{
+    "id": 28,
+  "src": "headers/David.webp",
+  "name": "David Wildclaw",
+  "date": "Nov 26, 2021",
+  "bio": "bio/David.txt"
+},
+{
+    "id": 29,
+  "src": "headers/Tyler.webp",
+  "name": "Tyler the Guardian",
+  "date": "Nov 26, 2021",
+  "bio": "bio/Tyler.txt"
+},
+{
+    "id": 30,
+  "src": "headers/Apostle.webp",
+  "name": "Apostle Wake",
+  "date": "Mar 4, 2023",
+  "bio": "bio/Apostle.txt"
+},
+{
+    "id": 31,
+  "src": "headers/Caspian.webp",
+  "name": "Caspian",
+  "date": "Jun 14, 2022",
+  "bio": "bio/Caspian.txt"
+},
+{
+    "id": 32,
+  "src": "headers/Elliot.webp",
+  "name": "Elliot",
+  "date": "Jun 21, 2021",
+  "bio": "bio/Elliot.txt"
+},
+{
+    "id": 33,
+  "src": "headers/Hereford.webp",
+  "name": "Hereford",
+  "date": "Jun 15, 2022",
+  "bio": "bio/Hereford.txt"
+},
+{
+    "id": 34,
+  "src": "headers/Kulta.webp",
+  "name": "Kulta",
+  "date": "Nov 17, 2022",
+  "bio": "bio/Kulta.txt"
+},
+{
+    "id": 35,
+ "src": "headers/Plume.webp",
+  "name": "Plume",
+  "date": "Apr 28, 2022",
+  "bio": "bio/Plume.txt"
+},
+{
+    "id": 36,
+  "src": "headers/Benjamin.webp",
+  "name": "Benjamin J. Wildclaw",
+  "date": "Sep 23, 2021",
+  "bio": "bio/Benjamin.txt"
+},
+{
+    "id": 37,
+  "src": "headers/Gregory.webp",
+  "name": "Gregory Wildclaw",
+  "date": "Nov 8, 2021",
+  "bio": "bio/Gregory.txt"
+},
+{
+    "id": 38,
+  "src": "headers/Keith.webp",
+  "name": "Keith",
+  "date": "Mar 7, 2022",
+  "bio": "bio/Keith.txt"
+},
+{
+    "id": 39,
+  "src": "headers/Theodore.webp",
+  "name": "Theodore",
+  "date": "May 1, 2023",
+  "bio": "bio/Theodore.txt"
+},
+{
+    "id": 40,
+  "src": "headers/Lora.webp",
+  "name": "Lora",
+  "date": "Jun 24, 2024",
+  "bio": "bio/Lora.txt"
+},
+{
+    "id": 41,
+  "src": "headers/Thomas.webp",
+  "name": "Thomas",
+  "date": "Apr 30, 2022",
+  "bio": "bio/Thomas.txt"
+},
+{
+    "id": 42,
+  "src": "headers/Solstice.webp",
+  "name": "Solstice",
+  "date": "Jul 30, 2023",
+  "bio": "bio/Solstice.txt"
+},
+{
+    "id": 43,
+  "src": "headers/Elias.webp",
+  "name": "Elias",
+  "date": "Jun 11, 2024",
+  "bio": "bio/Elias.txt"
+},
+{
+    "id": 44,
+  "src": "headers/Koa.webp",
+  "name": "Koa",
+  "date": "Jul 2, 2024",
+  "bio": "bio/Koa.txt"
+},
+{
+    "id": 45,
+  "src": "headers/Reaper.webp",
+  "name": "Reaper",
+  "date": "Jul 31, 2023",
+  "bio": "bio/Reaper.txt"
+},
+{
+    "id": 46,
+  "src": "headers/Krow.webp",
+  "name": "Krow",
+  "date": "Nov 14, 2023",
+  "bio": "bio/Krow.txt"
+},
+{
+    "id": 47,
+  "src": "headers/Alastor.webp",
+  "name": "Alastor",
+  "date": "Jul 31, 2023",
+  "bio": "bio/Alastor.txt"
+},
+{
+    "id": 48,
+  "src": "headers/Girabsol.webp",
+  "name": "Girabsol",
+  "date": "Aug 9, 2022",
+  "bio": "bio/Girabsol.txt"
+},
+{
+    "id": 49,
+  "src": "headers/Keith2.webp",
+  "name": "Keith (Older)",
+  "date": "Mar 7, 2022 (Jul 11, 2024)",
+  "bio": "bio/Keith.txt"
+},
+{
+    "id": 50,
+  "src": "headers/Theo2.webp",
+  "name": "Theodore (Older)",
+  "date": "May 1, 2023 (Apr 22, 2025)",
+  "bio": "bio/Theodore.txt"
+},
+{
+    "id": 51,
+  "src": "headers/Milo.webp",
+  "name": "Milo Heartwood",
+  "date": "Feb 17, 2023",
+  "bio": "bio/Milo.txt"
+},
+{
+    "id": 52,
+  "src": "headers/Nobuku.webp",
+  "name": "████████ [Nobuku]",
+  "date": "Sep 8, 2022",
+  "bio": "bio/Nobuku.txt"
+},
+{
+    "id": 53,
+  "src": "headers/Vulkor.webp",
+  "name": "Vulkor",
+  "date": "Jul 18, 2023",
+  "bio": "bio/Vulkor.txt"
+},
+{
+    "id": 54,
+  "src": "headers/Quinn.webp",
+  "name": "Quinn",
+  "date": "May 2, 2023",
+  "bio": "bio/Quinn.txt"
+},
+{
+    "id": 55,
+  "src": "headers/Rook.webp",
+  "name": "Rook",
+  "date": "Oct 17, 2023",
+  "bio": "bio/Rook.txt"
+},
+{
+    "id": 56,
+  "src": "headers/Kenna.webp",
+  "name": "Kenna",
+  "date": "Feb 15, 2023",
+  "bio": "bio/Kenna.txt"
+},
+{
+    "id": 57,
+  "src": "headers/Krivus.webp",
+  "name": "Krivus Draconis",
+  "date": "Jan 5, 2024",
+  "bio": "bio/Krivus.txt"
+},
+{
+    "id": 58,
+  "src": "headers/Zorumaki.webp",
+  "name": "Zorumaki",
+  "date": "Jan 19, 2023",
+  "bio": "bio/Zorumaki.txt"
+},
+{
+    "id": 59,
+  "src": "headers/Pubby.webp",
+  "name": "Pubby",
+  "date": "Aug 5, 2023",
+  "bio": "bio/Pubby.txt"
+},
+{
+    "id": 60,
+  "src": "headers/Silvia.webp",
+  "name": "Silvia",
+  "date": "Oct 21, 2024",
+  "bio": "bio/Silvia.txt"
+},
+{
+    "id": 61,
+  "src": "headers/Caleb.webp",
+  "name": "Caleb",
+  "date": "Oct 27, 2024",
+  "bio": "bio/Caleb.txt"
+},
+{
+    "id": 62,
+  "src": "headers/Lilith.webp",
+  "name": "Lilith",
+  "date": "May 7, 2025",
+  "bio": "bio/Lilith.txt"
+},
+{
+    "id": 63,
+  "src": "headers/IO.webp",
+  "name": "Imaginary Obelisk",
+  "date": "Oct 31, 2024",
+  "bio": "bio/IO.txt"
+},
+{
+    "id": 64,
+  "src": "headers/EX000_Sour.webp",
+  "name": "EX000 Sour",
+  "date": "Nov 10, 2024",
+  "bio": "bio/EX000.txt"
+},
+{
+    "id": 65,
+ "src": "headers/EX001.webp",
+  "name": "EX001",
+  "date": "Oct 17, 2023",
+  "bio": "bio/EX001.txt"
+},
+{
+    "id": 66,
+  "src": "headers/682.webp",
+  "name": "EX002 - NOT 682",
+  "date": "Jan 28, 2025",
+  "bio": "bio/682.txt"
+},
+{
+    "id": 67,
+  "src": "headers/Sweet.webp",
+  "name": "Sweet",
+  "date": "Mar 20, 2023",
+  "bio": "bio/Sweet.txt"
+},
+{
+    "id": 68,
+  "src": "headers/Sour.webp",
+  "name": "Sour",
+  "date": "Mar 20, 2023",
+  "bio": "bio/Sour.txt"
+},
+{
+    "id": 69,
+  "src": "headers/Brite.webp",
+  "name": "Brite",
+  "date": "Jan 30, 2025",
+  "bio": "bio/Brite.txt"
+},
+{
+    "id": 70,
+ "src": "headers/Matt.webp",
+  "name": "Matt",
+  "date": "Jan 27, 2025",
+  "bio": "bio/Matt.txt"
+},
+{
+    "id": 71,
+"src": "headers/Rivulet.webp",
+  "name": "Rivulet",
+  "date": "Apr 29, 2025",
+  "bio": "bio/Rivulet.txt"
+},
+{
+    "id": 72,
+  "src": "headers/Spearmaster.webp",
+  "name": "Spearmaster",
+  "date": "Apr 29, 2025",
+  "bio": "bio/Spearmaster.txt"
+},
+{
+    "id": 73,
+  "src": "headers/Zephyr.webp",
+  "name": "Zephyr",
+  "date": "Dec 5, 2023",
+  "bio": "bio/Zephyr.txt"
+},
+{
+    "id": 74,
+  "src": "headers/Raptor.webp",
+  "name": "Raptor",
+  "date": "Jul 16, 2023",
+  "bio": "bio/Raptor.txt"
+},
+{
+    "id": 75,
+  "src": "headers/Zirak.webp",
+  "name": "Zirak",
+  "date": "Jun 24, 2023",
+  "bio": "bio/Zirak.txt"
+},
+{
+    "id": 76,
+ "src": "headers/Death.webp",
+  "name": "Death",
+  "date": "Mar 28, 2022",
+  "bio": "bio/Death.txt"
+},
+{
+    "id": 77,
+  "src": "headers/kid1.webp",
+  "name": "Eevee/Noibat Hybrid",
+  "date": "Aug 7, 2023",
+  "bio": "bio/kid1.txt"
+},
+{
+    "id": 78,
+  "src": "headers/kid2.webp",
+  "name": "Toto/Eevee",
+  "date": "Aug 7, 2023",
+  "bio": "bio/kid2.txt"
+},
+{
+    "id": 79,
+ "src": "headers/Kyu.webp",
+  "name": "Kyu (Color Sorrow)",
+  "date": "- - -",
+  "bio": "bio/Kyu.txt"
+}
+
+
+]
