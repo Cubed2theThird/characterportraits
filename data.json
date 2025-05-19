@@ -4,21 +4,21 @@
 	"src": "headers/Theta.webp",
 	"name": "Theta",
 	"date": "Mar 3, 2022",
-	"bio": "bios/Theta.txt"
+	"bio": "Theta is the goddess of creation. Theta grew up in a small pokemon town, but instead of being a normal mon she came out as a fusion. A fusion that had one problem. She couldn't use any of her own powers. Orion continued to observe her throughout many years before one day she was finally banished out of her hometown for being consider too much of a freak and dangerous. After taking a lot of interest in her creativity in finding ways around her lack of powers, and her wonder for any other possible life in the universe. Orion gave her the powers to create anything she wanted. Now she's the God of Creation. Creating and merging universes to her liking. Eventually joined by her new stepbrother Delta, then later her friend Kuromori to further expand their universes."
 },
 {
     "id": 2,
 	"src": "headers/Delta.webp",
 	"name": "Delta",
 	"date": "Mar 31, 2022",
-	"bio": "bios/Delta.txt"
+	"bio": "This Adult that has adapted to hunt at night on the tops of volcanoes and high mountains near the desert where the sky helps to camouflage itself, can be territorial with creatures that disturb the peace of this area. His venom evolved to be neurotoxic and can cause severe disorientation in his victims. \nRuthless to all that challenged him he was mad with power. Alone in the universe with nobody \nDelta is the God of Destruction"
 },
 {
     "id": 3,
 	"src": "headers/Orion.webp",
 	"name": "Orion",
 	"date": "Mar 6, 2022",
-	"bio": "bios/Orion.txt"
+	"bio": "Creator of all. Now just an observer of the universe."
 },
 {
     "id": 4,
@@ -46,14 +46,14 @@
 	"src": "headers/Resha.webp",
 	"name": "Resha",
 	"date": "Dec 8, 2020",
-	"bio": "bio/Resha.txt"
+	"bio": "Resha is calm, mother like, and has well kept fur"
 },
 {
     "id": 8,
 	"src": "headers/Zeku.webp",
 	"name": "Zeku",
 	"date": "Mar 10, 2022",
-	"bio": "bio/Zeku.txt"
+	"bio": "punk like emo, and slightly egotistical \ncaring of her family mostly trying to help but is a little too aggressive at times \nZeku is a good concept, she tries to imitate Flumf's personality since it is what she considers cool, and she is not able to show her own personality because she feels vulnerable as she is, which makes her an extremely cool person. competitive but sensitive"
 },
 {
     "id": 9,
@@ -66,8 +66,9 @@
     "id": 10,
 	"src": "headers/Vincent.webp",
 	"name": "Vincent Bitti",
+	"height": "12'02 (3.71m)",
 	"date": "Oct 3, 2022",
-	"bio": "bio/Vincent.txt"
+	"bio": "Vincent is an entrepreneur in multiple industries, and the current owner of Korumak's Alternative Collection (KAC). Having recently gained ownership from Keith, he rebranded the label to his liking. Later meeting Galileo, to provide the funds to open a bar on the Isle, leaving him in charge of bartending there. Latest achievement was offering a deal with Maverick, signing him into the Porn Filming industry along side Tobias and Moxie."
 },
 {
     "id": 11,
@@ -88,14 +89,14 @@
 	"src": "headers/Flumf.webp",
 	"name": "Flumf",
 	"date": "Jun 16, 2021",
-	"bio": "bio/Flumf.txt"
+	"bio": "Flumf is deranged, mentally insane/unstable, and messy fur \nFlumf's family was kind of close, but not as close as Resha's. He always looked up to his older Zekrom Brother. Those two we're the closes between the three, but all three still cared for each other. After a fight with shadow creatures, Zekrom sacrificed himself to let Flumf escape. Crimson out of anger blamed Flumf for their brother's Death, and sought to kill him out of revenge. Left defeated, Flumf was saved by Resha fusing with him in order to keep him alive. Years of recovering, he gained enough consciousness to force Resha to defuse with him. Stuck in his old days, upon release he caused mayhem to the land, now gaining the attention of both Crimson and Theta. He knew he would have to reface his Brother soon.... \nAfter Crimson heard of his brother's death, he blamed Flumf for it, and sought for revenge. Nearly killing Flumf to then leave him to die on his own. Unknown to him Resha found him on the brink of death, and decided to fuse with Flumf. Believing he was the last of his family, he would go on a massacre for domination of the world. Years past until he felt a connection to his brother awaken again. Now with the confirmation that his brother is alive. He aims to finish what started."
 },
 {
     "id": 14,
 	"src": "headers/Flumf2.webp",
 	"name": "Flumf (Altered Form)",
 	"date": "Jan 18, 2022",
-	"bio": "bio/Flumf.txt"
+	"bio": "Flumf is deranged, mentally insane/unstable, and messy fur \nFlumf's family was kind of close, but not as close as Resha's. He always looked up to his older Zekrom Brother. Those two we're the closes between the three, but all three still cared for each other. After a fight with shadow creatures, Zekrom sacrificed himself to let Flumf escape. Crimson out of anger blamed Flumf for their brother's Death, and sought to kill him out of revenge. Left defeated, Flumf was saved by Resha fusing with him in order to keep him alive. Years of recovering, he gained enough consciousness to force Resha to defuse with him. Stuck in his old days, upon release he caused mayhem to the land, now gaining the attention of both Crimson and Theta. He knew he would have to reface his Brother soon.... \nAfter Crimson heard of his brother's death, he blamed Flumf for it, and sought for revenge. Nearly killing Flumf to then leave him to die on his own. Unknown to him Resha found him on the brink of death, and decided to fuse with Flumf. Believing he was the last of his family, he would go on a massacre for domination of the world. Years past until he felt a connection to his brother awaken again. Now with the confirmation that his brother is alive. He aims to finish what started."
 },
 {
     "id": 15,
@@ -137,7 +138,7 @@
  "src": "headers/Maverick.webp",
   "name": "Maverick",
   "date": "Jan 28, 2022",
-  "bio": "bio/Maverick.txt"
+  "bio": "A caring sweetheart by day, and an egotistical performer by night. Meet Eugene better known as Maverick the Noivern Rockstar. While Eugene is a caring, and mostly shy towards anyone outside his close friend group, his rockstar stagesona Maverick is pretty energetic, serious, and rude, but only as an act towards fans. His stage career did taught him how to stand up and protect thoses he loves by any means necessary. \nMaverick is egotistic, energetic, serious, and rude but only towards fans as an act"
 },
 {
     "id": 21,
@@ -151,7 +152,7 @@
   "src": "headers/Galileo.webp",
   "name": "Galileo",
   "date": "Apr 9, 2023",
-  "bio": "bio/Galileo.txt"
+  "bio": "Galileo came from a distance region to possibly start his own business. Hear a popular Cafe was selling their business, so he took the opportunity, and purchased it himself. With no friends on The Isle, and not used to their local customs he got all his news from the in-house tv, but would soon quickly began to learn from 5 frequent customers."
 },
 {
     "id": 23,
@@ -172,20 +173,22 @@
   "src": "headers/Nova.webp",
   "name": "Nova",
   "date": "Jan 10, 2022",
-  "bio": "bio/Nova.txt"},
+  "bio": "Nova is the sister to Tyler, mate to Elliot, and mother to Gabriel"
+},
 {
     "id": 26,
   "src": "headers/Gabriel.webp",
   "name": "Gabriel",
   "date": "Jun 21, 2022",
-  "bio": "bio/Gabriel.txt"
+  "bio": "Hes a bully in school but loves his sister, strawberries, and is a friend to foreign creatures"
 },
 {
     "id": 27,
-"src": "headers/Blaster.webp",
-  "name": "Blaster",
-  "date": "Dec 15, 2021",
-  "bio": "bio/Blaster.txt"
+	"src": "headers/Blaster.webp",
+	"height": "6'03 (1.9m)",
+	"name": "Blaster",
+	"date": "Dec 15, 2021",
+	"bio": "Blaster's been for the people all his life. Greeting any newcomers to the Isle, and making many friends along the way. He has seen many things that some should never see, but made it his goal so nobody would have to see it. After being hired by Apostle Wake, it now made his goals possible to serve and protect the people from harm. Making friends with Tyler taught him to not let hardship bring him down, and to have as much fun as possible while doing what he likes. Now he's been called to action to hunt down the elusive target that stole the Ventus Maelstrom Staff."
 },
 {
     "id": 28,
@@ -212,8 +215,9 @@
     "id": 31,
   "src": "headers/Caspian.webp",
   "name": "Caspian",
+	"height": "9'6 (2.9m)",
   "date": "Jun 14, 2022",
-  "bio": "bio/Caspian.txt"
+  "bio": "Caspian is one of the three Ancient Guardians of The Isle. Constantly seen relaxing, eating apples on their mountain. Used to mostly care for themself, until meeting a special Mew that would change their morals for the better. Now they are always watching the Island from a distance, only to appearing if it is in danger. Last sighted during 'The Great Fire', helping Benjamin putting out the fire while he saved the fleeing pokemon. Myths been formed after their first sighting, never to be seen again in public. Many attempts to search for them, but could never find a trace. Only a few knows of their existence being true, but only Apostle Wake knows of their resting location."
 },
 {
     "id": 32,
@@ -241,7 +245,7 @@
  "src": "headers/Plume.webp",
   "name": "Plume",
   "date": "Apr 28, 2022",
-  "bio": "bio/Plume.txt"
+  "bio": "She was the leader of a Gryphon clan and love research and gems before theta brought her to this universe \nshe is curious and analytical \nLikes shiny things"
 },
 {
     "id": 36,
@@ -261,8 +265,9 @@
     "id": 38,
   "src": "headers/Keith.webp",
   "name": "Keith",
+  "height": "4'05 (1.35m)",
   "date": "Mar 7, 2022",
-  "bio": "bio/Keith.txt"
+  "bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker."
 },
 {
     "id": 39,
@@ -332,14 +337,14 @@
   "src": "headers/Girabsol.webp",
   "name": "Girabsol",
   "date": "Aug 9, 2022",
-  "bio": "bio/Girabsol.txt"
+  "bio": "Following Tina's orders to kill whoever won the battle between brothers he already believed Flumf would lose but unexpectedly Flumf actually lived and won so Gira had to follow orders and kill his best friend his self \nAshamed and enraged from what he did he abandon Tina and everyone to possibly find a new path in his life \nGira notice that his portals lead to a different world he never seen before. \nAfter exploring a bit he realized he'll needed a better new disguise and with the help of the Griseous Orb he managed to make a new form altogether"
 },
 {
     "id": 49,
   "src": "headers/Keith2.webp",
   "name": "Keith (Older)",
   "date": "Mar 7, 2022 (Jul 11, 2024)",
-  "bio": "bio/Keith.txt"
+  "bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker."
 },
 {
     "id": 50,
@@ -352,8 +357,9 @@
     "id": 51,
   "src": "headers/Milo.webp",
   "name": "Milo Heartwood",
+  "height": "11'06 (3.5m)",
   "date": "Feb 17, 2023",
-  "bio": "bio/Milo.txt"
+  "bio": "Milo was born in the Druron kingdom to a royal family, but ever since he was a child, wanted to explore the world and make new friends! So he left the kingdom to explore the wild world all by himself to live a simple and happy life in the countryside. He had to hunt to survive, training with his body and mind to defend his self. Having many different adventures in the wild, like finding treasure, meeting new people, and even saving a town from a tornado. He would meet a Nightfury named Vulkor, who showed him the ways of living in the wilds. Vulkor was basically the parental figure he never had. They fed, bathed, and protected Milo from all danger because he was too kind, innocent, and trusting to fight back. After years of growing, Milo decided to buy a plot of land, and started to plant crops, grow fruits, vegetables, flowers, and trees, while also trying to help the local communities and townsfolk."
 },
 {
     "id": 52,
@@ -549,8 +555,6 @@
  "src": "headers/Kyu.webp",
   "name": "Kyu (Color Sorrow)",
   "date": "- - -",
-  "bio": "bio/Kyu.txt"
+  "bio": "Soo Depress Kyurem upset by the loss of Flumf's Zekrom brother and can't leave cus of the bad attention due to Crimson she only has a fragment of something form Zek and her Sisters to keep her cheered. Vic being the closes while her Zeku tried to cheer her up by acting like Flumf's brother but it only made things worst but Zeku kind of grew to love the personality and continues with it anyway, so far we got a heart necklace with engraving, in one heart it would have a snowflake, and in the other a lightning bolt"
 }
-
-
 ]
