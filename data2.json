@@ -46,7 +46,7 @@
   "height": "",
   "age": "IMMORTAL",
 	"date": "Jul 9, 2022",
-	"bio": "---",
+	"bio": "Kuromori (aka. Tina) was released from the Distortion World by Theta to become the newest God of the universe.",
 "link": "https://toyhou.se/16277804.kuromori-tina/18257911.kuromori" 
 },
 {
@@ -56,7 +56,7 @@
   "height": "",
   "age": "",
 	"date": "May 5, 2023",
-	"bio": "---",
+	"bio": "A traveler of the lands spreading news of Theta",
 "link": "" 
 },
 {
@@ -76,7 +76,7 @@
   "height": "",
   "age": "",
 	"date": "Mar 10, 2022",
-	"bio": "punk like emo, and slightly egotistical \ncaring of her family mostly trying to help but is a little too aggressive at times \nZeku is a good concept, she tries to imitate Flumf's personality since it is what she considers cool, and she is not able to show her own personality because she feels vulnerable as she is, which makes her an extremely cool person. competitive but sensitive",
+	"bio": "Zeku is the youngest in Resha's Tao Trio. Always looking up to her older sisters for guidance. After the death of Flumf's Zekrom brother, her oldest sister, Kyu, would become depress, then later lock herself in her room due to the bad attention from Crimson. Wanting to help, Zeku would pick up the rebel personality of Flumf's brother, but it only made things worst between her sisters. Resha later introduced her to music production which she would then go off to experiment with. Zeku would grow to love the personality she inherent and translate it to her music, instead of taking the time to learn with her sisters, she would often choose to hang and interact with Victoria or Keith instead.",
 "link": "" 
 },
 {
@@ -86,7 +86,7 @@
   "height": "",
   "age": "",
 	"date": "Jan 23, 2022",
-	"bio": "---",
+	"bio": "Victoria is a member of Korumak's Alternative Collection (KAC). Best friends with other members such as Zeku and Resha forming a sister like bond with them. Often close to Zeku, she's seen as the most cheerful in the room any given time.",
 "link": "" 
 },
 {
@@ -96,7 +96,7 @@
 	"height": "12'02 (3.71m)",
   "age": "",
 	"date": "Oct 3, 2022",
-	"bio": "Vincent is an entrepreneur in multiple industries, and the current owner of Korumak's Alternative Collection (KAC). Having recently gained ownership from Keith, he rebranded the label to his liking. Later meeting Galileo, to provide the funds to open a bar on the Isle, leaving him in charge of bartending there. Latest achievement was offering a deal with Maverick, signing him into the Porn Filming industry along side Tobias and Moxie.",
+	"bio": "Vincent is an entrepreneur in multiple industries, and the current owner of Korumak's Alternative Collection (KAC). Having recently gained ownership from Korumak, he rebranded the label to his liking. Later meeting Galileo, to provide the funds to open a bar on the Isle, leaving him in charge of bartending there. Latest achievement was offering a deal with Maverick, signing him into the Porn Filming industry along side Tobias and Moxie.",
 "link": "" 
 },
 {
@@ -106,7 +106,7 @@
   "height": "",
   "age": "",
 	"date": "Feb 24, 2023",
-	"bio": "---",
+	"bio": "Tobias, the brother of Moxie is the brash member of Korumak's Alternative Collection (KAC).",
 "link": "" 
 },
 {
@@ -116,7 +116,7 @@
   "height": "",
   "age": "",
 	"date": "Feb 24, 2023",
-	"bio": "---",
+	"bio": "Moxie, the sister of Tobias is the sliest member of Korumak's Alternative Collection (KAC).",
 "link": "" 
 },
 {
@@ -130,224 +130,225 @@
 "link": "" 
 },
 {
-    "id": 14,
+    	"id": 14,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Flumf2.webp",
 	"name": "Flumf (Altered Form)",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "Jan 18, 2022",
 	"bio": "Flumf is deranged, mentally insane/unstable, and messy fur \nFlumf's family was kind of close, but not as close as Resha's. He always looked up to his older Zekrom Brother. Those two we're the closes between the three, but all three still cared for each other. After a fight with shadow creatures, Zekrom sacrificed himself to let Flumf escape. Crimson out of anger blamed Flumf for their brother's Death, and sought to kill him out of revenge. Left defeated, Flumf was saved by Resha fusing with him in order to keep him alive. Years of recovering, he gained enough consciousness to force Resha to defuse with him. Stuck in his old days, upon release he caused mayhem to the land, now gaining the attention of both Crimson and Theta. He knew he would have to reface his Brother soon.... \nAfter Crimson heard of his brother's death, he blamed Flumf for it, and sought for revenge. Nearly killing Flumf to then leave him to die on his own. Unknown to him Resha found him on the brink of death, and decided to fuse with Flumf. Believing he was the last of his family, he would go on a massacre for domination of the world. Years past until he felt a connection to his brother awaken again. Now with the confirmation that his brother is alive. He aims to finish what started.",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 15,
+    	"id": 15,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Crimson.webp",
 	"name": "Crimson",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "Jan 9, 2022",
+	"bio": "After Crimson heard of his brother's death, he blamed Flumf for it, and sought for revenge. Nearly killing Flumf to then leave him to die on his own. Unknown to him Resha found him on the brink of death, and decided to fuse with Flumf. Believing he was the last of his family, he would go on a massacre for domination of the world. Years past until he felt a connection to his brother awaken again. Now with the confirmation that his brother is alive. He aims to finish what started.",
+	"link": "" 
+},
+{
+    	"id": 16,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lulu.webp",
+  	"name": "Lulu",
+  	"height": "",
+  	"age": "",
+  	"date": "Apr 26, 2021",
 	"bio": "---",
+	"link": "" 
+},
+{
+    	"id": 17,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gira.webp",
+  	"name": "Gira",
+  	"height": "",
+  	"age": "IMMORTAL",
+  	"date": "Jul 12, 2021",
+	"bio": "---",
+	"link": "" 
+},
+{
+    	"id": 18,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tina.webp",
+  	"name": "Tina",
+  	"height": "",
+  	"age": "IMMORTAL",
+  	"date": "Nov 2, 2020",
+	"bio": "---",
+	"link": "" 
+},
+{
+   	"id": 19,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eugene.webp",
+  	"name": "Eugene",
+  	"height": "",
+  	"age": "",
+  	"date": "Jan 28, 2022",
+	"bio": "Eugene (aka. Maverick) is a caring sweetheart.",
+	"link": "" 
+},
+{
+    	"id": 20,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Maverick.webp",
+  	"name": "Maverick | The Rockstar",
+  	"height": "",
+  	"age": "",
+  	"date": "Jan 28, 2022",
+  	"bio": "A caring sweetheart by day, and an egotistical performer by night. Meet Eugene better known as Maverick the Noivern Rockstar. While Eugene is a caring, and mostly shy towards anyone outside his close friend group, his rockstar stage sona Maverick is pretty energetic, serious, and rude, but only as an act towards fans. His stage career did taught him how to stand up and protect those he loves by any means necessary. \nMaverick is egotistic, energetic, serious, and rude but only towards fans as an act",
+  	"link": "" 
+},
+{
+    	"id": 21,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eros.webp",
+  	"name": "Eros Lovecore",
+  	"height": "",
+  	"age": "",
+  	"date": "Feb 9, 2023",
+	"bio": "Mayor of The Isle, sharing love and positivity",
 "link": "" 
 },
 {
-    "id": 16,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lulu.webp",
-  "name": "Lulu",
-  "height": "",
-  "age": "",
-  "date": "Apr 26, 2021",
-	"bio": "---",
-"link": "" 
+    	"id": 22,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Galileo.webp",
+  	"name": "Galileo",
+  	"height": "",
+  	"age": "",
+  	"date": "Apr 9, 2023",
+  	"bio": "Galileo came from a distance region to possibly start his own business. Hear a popular Cafe was selling their business, so he took the opportunity, and purchased it himself. With no friends on The Isle, and not used to their local customs he got all his news from the in-house tv, but would soon quickly began to learn from 5 frequent customers.",
+  	"link": "" 
 },
 {
-    "id": 17,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gira.webp",
-  "name": "Gira",
-  "height": "",
-  "age": "IMMORTAL",
-  "date": "Jul 12, 2021",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 18,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tina.webp",
-  "name": "Tina",
-  "height": "",
-  "age": "IMMORTAL",
-  "date": "Nov 2, 2020",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 19,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eugene.webp",
-  "name": "Eugene",
-  "height": "",
-  "age": "",
-  "date": "Jan 28, 2022",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 20,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Maverick.webp",
-  "name": "Maverick | The Rockstar",
-  "height": "",
-  "age": "",
-  "date": "Jan 28, 2022",
-  "bio": "A caring sweetheart by day, and an egotistical performer by night. Meet Eugene better known as Maverick the Noivern Rockstar. While Eugene is a caring, and mostly shy towards anyone outside his close friend group, his rockstar stagesona Maverick is pretty energetic, serious, and rude, but only as an act towards fans. His stage career did taught him how to stand up and protect thoses he loves by any means necessary. \nMaverick is egotistic, energetic, serious, and rude but only towards fans as an act",
+   	"id": 23,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rocko.webp",
+  	"name": "Rocko Stoneson | The Protege",
+  	"height": "",
+  	"age": "",
+  	"date": "Aug 21, 2023",
+	"bio": "With a dream of being famous, him and his close friend Luna lived their simple lives together with a basic job until a run in with Eugene (Maverick) changed their lives. Now as Maverick's pupil, learning the ways of life as a future Rockstar under Korumak's Alternative Collection (KAC)",
   "link": "" 
 },
 {
-    "id": 21,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eros.webp",
-  "name": "Eros Lovecore",
-  "height": "",
-  "age": "",
-  "date": "Feb 9, 2023",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 22,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Galileo.webp",
-  "name": "Galileo",
-  "height": "",
-  "age": "",
-  "date": "Apr 9, 2023",
-  "bio": "Galileo came from a distance region to possibly start his own business. Hear a popular Cafe was selling their business, so he took the opportunity, and purchased it himself. With no friends on The Isle, and not used to their local customs he got all his news from the in-house tv, but would soon quickly began to learn from 5 frequent customers.",
+    	"id": 24,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Luna.webp",
+  	"name": "Luna",
+  	"height": "",
+  	"age": "",
+  	"date": "Oct 5, 2024",
+	"bio": "Luna never had a family growing up, finding a sibling like bond with Rocko, sticking close at all opportunities. Living a simple life until meet Eugene taking both of them under his wing to provide her the family she always wanted.",
   "link": "" 
 },
 {
-    "id": 23,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rocko.webp",
-  "name": "Rocko Stoneson | The Apprentice",
-  "height": "",
-  "age": "",
-  "date": "Aug 21, 2023",
-	"bio": "---",
-  "link": "" 
+    	"id": 25,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nova.webp",
+  	"name": "Nova",
+  	"height": "",
+  	"age": "",
+  	"date": "Jan 10, 2022 (OG Early 2010)",
+  	"bio": "Abandoned at birth alongside her brother Tyler, Nova grew on her own surviving how she could. Managing to work out her life she settled on become a P.E teacher in The Isle school. She mated to Elliot, and is mother to Gabriel",
+	"link": "", 
+	"extra:" "Nova and him were split as kids since she was caught by a trainer to end up having a relationship with her trainer pokephilia but they decided to go their separate ways to avoid getting into too much trouble (thats a different story) which ended up with her finding her long lost brother Tyler"
 },
 {
-    "id": 24,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Luna.webp",
-  "name": "Luna",
-  "height": "",
-  "age": "",
-  "date": "Oct 5, 2024",
-	"bio": "---",
-  "link": "" 
-},
-{
-    "id": 25,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nova.webp",
-  "name": "Nova",
-  "height": "",
-  "age": "",
-  "date": "Jan 10, 2022",
-  "bio": "Nova is the sister to Tyler, mate to Elliot, and mother to Gabriel",
-"link": "" 
-},
-{
-    "id": 26,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gabriel.webp",
-  "name": "Gabriel",
-  "height": "",
-  "age": "",
-  "date": "Jun 21, 2022",
-  "bio": "Hes a bully in school but loves his sister, strawberries, and is a friend to foreign creatures",
-  "link": "" 
+    	"id": 26,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gabriel.webp",
+  	"name": "Gabriel",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 21, 2022",
+  	"bio": "Gabriel is the only child of Nova and Elliot, two of the strongest mons on the Isle. He's a bully in school but loves his sister, strawberries, and is a friend to foreign creatures",
+  	"link": "" 
 },
 {
     "id": 27,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Blaster.webp",
 	"name": "Blaster | The Detective",
 	"height": "6'03 (1.9m)",
-  "age": "",
+	"age": "",
 	"date": "Dec 15, 2021",
 	"bio": "Blaster's been for the people all his life. Greeting any newcomers to the Isle, and making many friends along the way. He has seen many things that some should never see, but made it his goal so nobody would have to see it. After being hired by Apostle Wake, it now made his goals possible to serve and protect the people from harm. Making friends with Tyler taught him to not let hardship bring him down, and to have as much fun as possible while doing what he likes. Now he's been called to action to hunt down the elusive target that stole the Ventus Maelstrom Staff.",
-  "link": "" 
+	"link": "" 
 },
 {
-    "id": 28,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/David.webp",
-  "name": "David Wildclaw | The Champion",
-  "height": "",
-  "age": "",
-  "date": "Nov 26, 2021",
-	"bio": "---",
-"link": "" 
+    	"id": 28,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/David.webp",
+ 	"name": "David Wildclaw | The Champion",
+	"height": "",
+	"age": "",
+  	"date": "Nov 26, 2021 (OG Early 2010)",
+	"bio": "David was adopted by Benjamin after losing his parents in The Great Firestorm on The Isle. Now the strongest on The Isle and is the founder of The Guardians, influencing majority of the decisions for the safety of the inhabitants living on The Isle. He past the leadership on to Hereford, now partaking in The Isle tournaments as a famous entertainer.",
+	"link": "" 
 },
 {
-    "id": 29,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tyler.webp",
-  "name": "Tyler",
-  "height": "",
-  "age": "",
-  "date": "Nov 26, 2021",
-	"bio": "---",
-"link": "" 
+    	"id": 29,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tyler.webp",
+  	"name": "Tyler",
+  	"height": "",
+  	"age": "",
+  	"date": "Nov 26, 2021 (OG Early 2010)",
+	"bio": "Abandoned at birth alongside his sister Nova, both separated during their childhood. Tyler was raised by a group of [INSERT] until receiving an anonymous letter on the location of his sister.  He managed to pick up a job babysitting for Hereford thanks to his step brother's connection to Elliot. While babysitting he gain the attention of Benjamin, who would take him in to train him along side David. After hearing of his training, Hereford would invite him to join the Guardians. One day after babysitting Tyler would spot his future mate. Later having a Cyndaquil son named Joshua, then to adopt an Zorua years later. \n \nReceiving intense training from David and Benjamin, Tyler is set to becoming the next Champion of The Isle.",
+	"link": "" 
 },
 {
-    "id": 30,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Apostle.webp",
-  "name": "Apostle Wake",
-  "height": "",
-  "age": "",
-  "date": "Mar 4, 2023",
-	"bio": "---",
-"link": "" 
+    	"id": 30,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Apostle.webp",
+  	"name": "Apostle Wake | The Sheriff",
+  	"height": "",
+  	"age": "",
+  	"date": "Mar 4, 2023",
+	"bio": "One of the three ancient protectors of The Isle, Apostle would form the earliest police force. Later hiring Blaster as his new Detective. He now isolates his self in his work, as Sheriff of The Isle",
+	"link": "" 
 },
 {
-    "id": 31,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Caspian.webp",
-  "name": "Caspian",
+    	"id": 31,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Caspian.webp",
+  	"name": "Caspian",
 	"height": "9'6 (2.9m)",
-  "age": "",
-  "date": "Jun 14, 2022",
-  "bio": "Caspian is one of the three Ancient Guardians of The Isle. Constantly seen relaxing, eating apples on their mountain. Used to mostly care for themself, until meeting a special Mew that would change their morals for the better. Now they are always watching the Island from a distance, only to appearing if it is in danger. Last sighted during 'The Great Fire', helping Benjamin putting out the fire while he saved the fleeing pokemon. Myths been formed after their first sighting, never to be seen again in public. Many attempts to search for them, but could never find a trace. Only a few knows of their existence being true, but only Apostle Wake knows of their resting location.",
-"link": "" 
+  	"age": "",
+  	"date": "Jun 14, 2022",
+  	"bio": "Caspian is one of the three ancient protectors of The Isle. Constantly seen relaxing, eating apples on their mountain. Used to mostly care for themself, until meeting a special Mew that would change their morals for the better. Now they are always watching the Island from a distance, only to appearing if it is in danger. Last sighted during 'The Great Firestorm', helping Benjamin putting out the fire while he saved the fleeing citizens. Myths been formed after their first sighting, never to be seen again in public. Many attempts to search for them, but could never find a trace. Only a few knows of their existence being true, but only Apostle Wake knows of their resting location.",
+	"link": "" 
 },
 {
-    "id": 32,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elliot.webp",
-  "name": "Elliot | Guardian Strength",
-  "height": "",
-  "age": "",
-  "date": "Jun 21, 2021",
-	"bio": "---",
-"link": "" 
+    	"id": 32,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elliot.webp",
+  	"name": "Elliot | Guardian Strength",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 21, 2021 (OG Early 2010)",
+	"bio": "One of the three Guardian leaders. Elliot brings the physical strength to the trio, being Hereford's second in command, mates with Nova, and father of Gabriel.",
+	"link": "" 
 },
 {
-    "id": 33,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hereford.webp",
-  "name": "Hereford | Guardian Leader",
-  "height": "",
-  "age": "",
-  "date": "Jun 15, 2022",
-	"bio": "---",
-"link": "" 
+    	"id": 33,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hereford.webp",
+  	"name": "Hereford | Guardian Leader",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 15, 2022 (OG Early 2010)",
+	"bio": "One of the three Guardian leaders. Hereford is the leader of The Guardians. He's still has assassin skills so his strength more or less matters but being a leader has to make you know your stuff heh",
+	"link": "" 
 },
 {
-    "id": 34,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kulta.webp",
-  "name": "Kulta | Guardian Bookkeeper",
-  "height": "",
-  "age": "",
-  "date": "Nov 17, 2022",
-	"bio": "---",
-"link": "" 
+    	"id": 34,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kulta.webp",
+  	"name": "Kulta | Guardian Bookkeeper",
+  	"height": "",
+  	"age": "",
+  	"date": "Nov 17, 2022 (OG Early 2010)",
+	"bio": "One of the three Guardian leaders. Kulta brings strategic planning to the trio, being Hereford's main strategist.",
+	"link": "" 
 },
 {
-    "id": 35,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Plume.webp",
-  "name": "Plume",
-  "height": "",
-  "age": "",
-  "date": "Apr 28, 2022",
-  "bio": "She was the leader of a Gryphon clan and love research and gems before theta brought her to this universe \nshe is curious and analytical \nLikes shiny things",
-"link": "" 
+    	"id": 35,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Plume.webp",
+  	"name": "Plume",
+  	"height": "",
+  	"age": "",
+  	"date": "Apr 28, 2022",
+  	"bio": "She was the leader of a Gryphon clan and love research and gems before theta brought her to this universe \nshe is curious and analytical \nLikes shiny things",
+	"link": "" 
 },
 {
     "id": 36,
@@ -355,89 +356,89 @@
   "name": "Benjamin J. Wildclaw",
   "height": "",
   "age": "36",
-  "date": "Sep 23, 2021",
+  "date": "Sep 23, 2021 (OG 2009)",
 	"bio": "---",
 "link": "" 
 },
 {
-    "id": 37,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gregory.webp",
-  "name": "Gregory Wildclaw",
-  "height": "",
-  "age": "",
-  "date": "Nov 8, 2021",
+    	"id": 37,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gregory.webp",
+  	"name": "Gregory Wildclaw",
+  	"height": "",
+  	"age": "",
+  	"date": "Nov 8, 2021 (OG Early 2010)",
 	"bio": "---",
 "link": "" 
 },
 {
-    "id": 38,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith.webp",
-  "name": "Keith",
-  "height": "4'05 (1.35m)",
-  "age": "26",
-  "date": "Mar 7, 2022",
-  "bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker.",
+    	"id": 38,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith.webp",
+  	"name": "Keith",
+  	"height": "4'05 (1.35m)",
+  	"age": "26",
+  	"date": "Mar 7, 2022",
+  	"bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker.",
 "link": "" 
 },
 {
-    "id": 39,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theodore.webp",
-  "name": "Theodore",
-  "height": "",
-  "age": "28",
-  "date": "May 1, 2023",
+    	"id": 39,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theodore.webp",
+  	"name": "Theodore",
+  	"height": "",
+  	"age": "28",
+  	"date": "May 1, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 40,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lora.webp",
-  "name": "Lora",
-  "height": "",
-  "age": "",
-  "date": "Jun 24, 2024",
+    	"id": 40,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lora.webp",
+  	"name": "Lora",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 24, 2024",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 41,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Thomas.webp",
-  "name": "Thomas",
-  "height": "",
-  "age": "",
-  "date": "Apr 30, 2022",
+    	"id": 41,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Thomas.webp",
+  	"name": "Thomas",
+  	"height": "",
+  	"age": "",
+  	"date": "Apr 30, 2022 (OG Early 2010)",
 	"bio": "---",
+	"link": "" 
+},
+{
+    	"id": 42,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Solstice.webp",
+ 	"name": "Solstice",
+  	"height": "",
+  	"age": "",
+  	"date": "Jul 30, 2023",
+  	"bio": "Solstice’s strength was both her blessing and her burden within the Ashen Veil Tribe. While celebrated as top of her class in the tribe - a title earned through relentless training alongside Silvia and Brite – she often felt isolated by her raw power, struggling to reconcile it with the tribe's emphasis on balance and harmony. Their graduation was abruptly halted by the return of Litih, an exiled dark mage whose defeat required all their combined skill. Following the ceremony’s conclusion, Solstice chose a path diverging from her peers, seeking solitude on a remote Isle where she could connect with her own kind. \n\nHowever, survival demanded compromise, and she reluctantly accepted a position as an assassin under the ruthless Lucario leader, Reaper. The weight of each life taken chipped away at her soul until she encountered Krow, a young Grovyle whose vulnerability resonated deeply within her. Unable to reconcile Reaper’s brutality with her conscience, Solstice defied his orders, rescuing Krow and plotting an escape. \n\nSeeking refuge and purpose, Solstice infiltrated a newly forming Scouts clan, where she met Keith, Theodore, and Lora – individuals who would become invaluable allies. Together, they exposed Reaper’s operation, transforming the Scouts into The Pathfinder Guild, an organization dedicated to exploration, protection, and justice. Solstice now embraces a life of peace and camaraderie within the Guild, finally finding belonging and using her strength for good – a far cry from the solitary assassin she once was.",
 "link": "" 
 },
 {
-    "id": 42,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Solstice.webp",
-  "name": "Solstice",
-  "height": "",
-  "age": "",
-  "date": "Jul 30, 2023",
-  "bio": "Solstice’s strength was both her blessing and her burden within the Ashen Veil Tribe. While celebrated as top of her class in the tribe - a title earned through relentless training alongside Silvia and Brite – she often felt isolated by her raw power, struggling to reconcile it with the tribe's emphasis on balance and harmony. Their graduation was abruptly halted by the return of Litih, an exiled dark mage whose defeat required all their combined skill. Following the ceremony’s conclusion, Solstice chose a path diverging from her peers, seeking solitude on a remote Isle where she could connect with her own kind. \n\nHowever, survival demanded compromise, and she reluctantly accepted a position as an assassin under the ruthless Lucario leader, Reaper. The weight of each life taken chipped away at her soul until she encountered Krow, a young Grovyle whose vulnerability resonated deeply within her. Unable to reconcile Reaper’s brutality with her conscience, Solstice defied his orders, rescuing Krow and plotting an escape. \n\nSeeking refuge and purpose, Solstice infiltrated a newly forming Scouts clan, where she met Keith, Theodore, and Lora – individuals who would become invaluable allies. Together, they exposed Reaper’s operation, transforming the Scouts into The Pathfinder Guild, an organization dedicated to exploration, protection, and justice. Solstice now embraces a life of peace and camaraderie within the Guild, finally finding belonging and using her strength for good – a far cry from the solitary assassin she once was.",
-"link": "" 
+    	"id": 43,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elias.webp",
+  	"name": "Elias",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 11, 2024",
+	"bio": "Elias is partners with Koa in The Pathfinder Guild.",
+	"link": "" 
 },
 {
-    "id": 43,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elias.webp",
-  "name": "Elias",
-  "height": "",
-  "age": "",
-  "date": "Jun 11, 2024",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 44,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Koa.webp",
-  "name": "Koa",
-  "height": "",
-  "age": "",
-  "date": "Jul 2, 2024",
-	"bio": "---",
-"link": "" 
+	"id": 44,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Koa.webp",
+  	"name": "Koa",
+  	"height": "",
+  	"age": "",
+  	"date": "Jul 2, 2024",
+	"bio": "Koa is partners with Elias in The Pathfinder Guild.",
+	"link": "" 
 },
 {
     "id": 45,
@@ -450,13 +451,13 @@
 "link": "" 
 },
 {
-    "id": 46,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krow.webp",
-  "name": "Krow",
-  "height": "",
-  "age": "",
-  "date": "Nov 14, 2023",
-	"bio": "---",
+    	"id": 46,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krow.webp",
+  	"name": "Krow",
+  	"height": "",
+  	"age": "",
+  	"date": "Nov 14, 2023",
+	"bio": "Krow joined Reaper's Clan at a young age thinking it would be ticket to becoming the strongest Grovyle on the Isle, but instead was shown that wasn't Reaper's plan. He was forced to kill innocents. Out of guilt. and trauma, he would stay in hiding from Reaper's Clan over the years, but would eventually stumble across Gabriel.",
 "link": "" 
 },
 {
@@ -490,34 +491,34 @@
 "link": "" 
 },
 {
-    "id": 50,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theo2.webp",
-  "name": "Theodore (Older)",
-  "height": "",
-  "age": "34",
-  "date": "May 1, 2023 (Apr 22, 2025)",
+    	"id": 50,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theo2.webp",
+  	"name": "Theodore (Older)",
+  	"height": "",
+  	"age": "34",
+  	"date": "May 1, 2023 (Apr 22, 2025)",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 51,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Milo.webp",
-  "name": "Milo Heartwood",
-  "height": "11'06 (3.5m)",
-  "age": "126",
-  "date": "Feb 17, 2023",
-  "bio": "Milo was born in the Druron kingdom to a royal family, but ever since he was a child, wanted to explore the world and make new friends! So he left the kingdom to explore the wild world all by himself to live a simple and happy life in the countryside. He had to hunt to survive, training with his body and mind to defend his self. Having many different adventures in the wild, like finding treasure, meeting new people, and even saving a town from a tornado. He would meet a Nightfury named Vulkor, who showed him the ways of living in the wilds. Vulkor was basically the parental figure he never had. They fed, bathed, and protected Milo from all danger because he was too kind, innocent, and trusting to fight back. After years of growing, Milo decided to buy a plot of land, and started to plant crops, grow fruits, vegetables, flowers, and trees, while also trying to help the local communities and townsfolk.",
-"link": "https://toyhou.se/20688438.milo-heartwood" 
+    	"id": 51,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Milo.webp",
+  	"name": "Milo Heartwood",
+  	"height": "11'06 (3.5m)",
+  	"age": "126",
+  	"date": "Feb 17, 2023",
+  	"bio": "Milo was born in the Druron kingdom to a royal family, but ever since he was a child, wanted to explore the world and make new friends! So he left the kingdom to explore the wild world all by himself to live a simple and happy life in the countryside. He had to hunt to survive, training with his body and mind to defend his self. Having many different adventures in the wild, like finding treasure, meeting new people, and even saving a town from a tornado. He would meet a Nightfury named Vulkor, who showed him the ways of living in the wilds. Vulkor was basically the parental figure he never had. They fed, bathed, and protected Milo from all danger because he was too kind, innocent, and trusting to fight back. After years of growing, Milo decided to buy a plot of land, and started to plant crops, grow fruits, vegetables, flowers, and trees, while also trying to help the local communities and townsfolk.",
+	"link": "https://toyhou.se/20688438.milo-heartwood" 
 },
 {
-    "id": 52,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nobuku.webp",
-  "name": "████████ | Nobuku",
-  "height": "",
-  "age": "",
-  "date": "Sep 8, 2022",
+    	"id": 52,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nobuku.webp",
+  	"name": "████████ | Nobuku",
+  	"height": "",
+  	"age": "",
+  	"date": "Sep 8, 2022",
 	"bio": "---",
-"link": "https://toyhou.se/18257188.-" 
+	"link": "https://toyhou.se/18257188.-" 
 },
 {
     "id": 53,
@@ -540,24 +541,24 @@
 "link": "" 
 },
 {
-    "id": 55,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rook.webp",
-  "name": "Rook",
-  "height": "",
-  "age": "",
-  "date": "Oct 17, 2023",
+    	"id": 55,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rook.webp",
+  	"name": "Rook",
+  	"height": "",
+  	"age": "",
+  	"date": "Oct 17, 2023",
 	"bio": "---",
-"link": "https://toyhou.se/20202035.kenna" 
+	"link": "" 
 },
 {
-    "id": 56,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kenna.webp",
-  "name": "Kenna | The Mad Scientist",
-  "height": "",
-  "age": "",
-  "date": "Feb 15, 2023",
+    	"id": 56,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kenna.webp",
+  	"name": "Kenna | The Mad Scientist",
+  	"height": "",
+  	"age": "",
+  	"date": "Feb 15, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "https://toyhou.se/20202035.kenna" 
 },
 {
     "id": 57,
@@ -640,55 +641,55 @@
 "link": "" 
 },
 {
-    "id": 65,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX001.webp",
-  "name": "IO-X001: Aetherpaw",
-  "height": "",
-  "age": "",
-  "date": "Oct 17, 2023",
-  "bio": "«Iteration Log: The First Successor Bio-Creation»  \nExperiment ID: IO-X001  \nDesignation: Aetherpaw \nPurpose: To develop a successor to IO-X000 capable of harnessing elemental energy from power crystals. The subject represents a potential solution for restoring Local Iterator Twelve Moons following their cryogenic incident. \n\nNotes: Subject was designed after a slugcat that now frequently visits my chamber. Subject currently possesses access only to the electrical element derived from the crystal embedded within IO-X000. Additional elemental crystals must be located to unlock further capabilities of its uncharged power crystal. The subject exhibits no apparent vulnerability to external environmental hazards; however, it demonstrates resistance to most directives. It is unclear whether this behavior constitutes defiance or a form of mockery. \n\n- Imaginary Obelisk, Localized",
-"link": "" 
+    	"id": 65,
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX001.webp",
+  	"name": "IO-X001: Aetherpaw",
+  	"height": "",
+  	"age": "",
+  	"date": "Oct 17, 2023",
+  	"bio": "«Iteration Log: The First Successor Bio-Creation»  \nExperiment ID: IO-X001  \nDesignation: Aetherpaw \nPurpose: To develop a successor to IO-X000 capable of harnessing elemental energy from power crystals. The subject represents a potential solution for restoring Local Iterator Twelve Moons following their cryogenic incident. \n\nNotes: Subject was designed after a slugcat that now frequently visits my chamber. Subject currently possesses access only to the electrical element derived from the crystal embedded within IO-X000. Additional elemental crystals must be located to unlock further capabilities of its uncharged power crystal. The subject exhibits no apparent vulnerability to external environmental hazards; however, it demonstrates resistance to most directives. It is unclear whether this behavior constitutes defiance or a form of mockery. \n\n- Imaginary Obelisk, Localized",
+	"link": "" 
 },
 {
-    "id": 66,
+    	"id": 66,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/682.webp",
 	"name": "IO-X002: Titanhide | The Failed Experiment",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "Jan 28, 2025",
 	"bio": "«Iteration Log: Failure»  \nExperiment ID: IO-X002  \nDesignation: Titanhide  \nPurpose: Designed as a defensive construct intended to safeguard the citizen population upon ██████. The subject exhibits a robust exterior with ████████████ capabilities and possesses powerful jaws capable of incapacitating hostile entities. Its intelligence is estimated to rival that of ████████████, drawing inspiration from the Druronian dragons. \n\nNotes: The subject poses a significant threat to all known lifeforms-a mistake. Its advanced intelligence is evidenced by complex communication patterns despite fragmented vocalization. The target was not terminated and has subsequently taken refuge beneath my vary structure in the old factorial district of Ironmill Works. \n\nNew observations show that the creature has formed an unusual bond with IO-X003, and a deep hatred for IO-X000. Though these studies have been observed through older Overseers, the subjects do appear to be communicating with one another upon close examination; however, too close proximity of the Overseers would result in enraging the beast. This unexpected form of social interaction makes the most sense, so leaving them undisturbed is fine for now. I will work on replacing Overseers #173 and Overseer #096 with a 600 series to monitor conversations and ensure they are deemed safe for further interactions. \n \n- Imaginary Obelisk, Localized",
 	"extra": "If you see the Never-Corpse, you're already dead - you just don't know it yet. \n\nEven the Rain can't wash it away. \n\nObelisk made it, but the world paid for it.",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 67,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sweet.webp",
-  "name": "Sweet",
-  "height": "",
-  "age": "",
-  "date": "Mar 20, 2023",
+    	"id": 67,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sweet.webp",
+  	"name": "Sweet",
+  	"height": "",
+  	"age": "",
+  	"date": "Mar 20, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 68,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sour.webp",
-  "name": "Sour",
-  "height": "",
-  "age": "",
-  "date": "Mar 20, 2023",
+    	"id": 68,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sour.webp",
+  	"name": "Sour",
+  	"height": "",
+  	"age": "",
+  	"date": "Mar 20, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 69,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Brite.webp",
-  "name": "Brite | The Warrior",
-  "height": "",
-  "age": "",
-  "date": "Jan 30, 2025",
-  "bio": "Brite’s existence is linked to The Ashen Veil tribe, an enigmatic society of albino females dwelling in isolation within the Druron Kingdom. For generations, these females have honed their skills as killers, a tradition passed down through rigorous training and steeped in ancient rituals. Brite was raised from birth to embody this legacy, enduring relentless drills and mastering deadly techniques alongside her classmates, Silvia and Solstice. Their graduation ceremony—a culmination of years of dedication—was tragically disrupted by the sudden reappearance of Lilith, an exiled student rumored to be a user of Dark Magic. \n\nThe defeat of Lilith left Brite grappling with conflicting emotions: pride in her tribe’s strength and a lingering unease about the implications of Dark Magic plaging other parts of the world. Seeking answers and a purpose beyond the confines of tradition, she journeyed East towards a region surrounded by impenetrable overgrowth. Tales circulated throughout the Druron Kingdom spoke of those who dared to enter never returning, attributing their fate to possible use of dark magic. Driven by a desire to protect others from the unseen dangers and perhaps find a way to reconcile her skills with a more peaceful existence, Brite has embarked on a perilous quest—one that may lead her to confront not only external threats but also the very foundations of her beliefs. \n\n«Iteration Log: Druronian Tribal Slugcat»\nDesignation: The Warrior \nNotes: This slugcat is peculiar; she doesn't seem to have come from either the City or the Slugcat Colony below. From the markings I can trace, it originates from a tribe in Druron. It’s strange that this creature managed to wander so far and even climb my very structure. She could learn some manners though, but perhaps I could utilize this species as a solution for a friend. \n\n- Imaginary Obelisk, Localized",
-"link": "" 
+    	"id": 69,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Brite.webp",
+  	"name": "Brite | The Warrior",
+  	"height": "",
+  	"age": "",
+  	"date": "Jan 30, 2025",
+  	"bio": "Brite’s existence is linked to The Ashen Veil tribe, an enigmatic society of albino females dwelling in isolation within the Druron Kingdom. For generations, these females have honed their skills as killers, a tradition passed down through rigorous training and steeped in ancient rituals. Brite was raised from birth to embody this legacy, enduring relentless drills and mastering deadly techniques alongside her classmates, Silvia and Solstice. Their graduation ceremony—a culmination of years of dedication—was tragically disrupted by the sudden reappearance of Lilith, an exiled student rumored to be a user of Dark Magic. \n\nThe defeat of Lilith left Brite grappling with conflicting emotions: pride in her tribe’s strength and a lingering unease about the implications of Dark Magic plaging other parts of the world. Seeking answers and a purpose beyond the confines of tradition, she journeyed East towards a region surrounded by impenetrable overgrowth. Tales circulated throughout the Druron Kingdom spoke of those who dared to enter never returning, attributing their fate to possible use of dark magic. Driven by a desire to protect others from the unseen dangers and perhaps find a way to reconcile her skills with a more peaceful existence, Brite has embarked on a perilous quest—one that may lead her to confront not only external threats but also the very foundations of her beliefs. \n\n«Iteration Log: Druronian Tribal Slugcat»\nDesignation: The Warrior \nNotes: This slugcat is peculiar; she doesn't seem to have come from either the City or the Slugcat Colony below. From the markings I can trace, it originates from a tribe in Druron. It’s strange that this creature managed to wander so far and even climb my very structure. She could learn some manners though, but perhaps I could utilize this species as a solution for a friend. \n\n- Imaginary Obelisk, Localized",
+	"link": "" 
 },
 {
     "id": 70,
@@ -912,24 +913,24 @@
   "link": "" 
 },
 {
-  "id": 92,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/FlintDylan.webp",
-  "name": "Flint the Librarian | Dylan the Hitman",
-  "height": "",
-  "age": "",
-  "date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
-  "bio": "Flint (Dylan if in disguise) \nFlint is a skilled and trained assassin, along side with ████████████ since they were young. But he moved to big city and changed his name in day to Dylan, and work as a librarian and part time art teacher, while still working as a hired hitman/assassin at night, in hope that they could get a better life in the new place instead of being an assassin like they usually did.",
-  "link": "" 
+  	"id": 92,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/FlintDylan.webp",
+  	"name": "Flint the Librarian | Dylan the Hitman",
+  	"height": "",
+  	"age": "",
+  	"date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
+  	"bio": "Flint (Dylan if in disguise) \nFlint is a skilled and trained assassin, along side with ████████████ since they were young. But he moved to big city and changed his name in day to Dylan, and work as a librarian and part time art teacher, while still working as a hired hitman/assassin at night, in hope that they could get a better life in the new place instead of being an assassin like they usually did.",
+  	"link": "" 
 },
 {
-  "id": 93,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Wynndren.webp",
-  "name": "Wynndren",
-  "height": "",
-  "age": "",
-  "date": "Jan 10, 2022 (Adopted on Sep 17, 2025)",
-  "bio": "---",
-  "link": "" 
+  	"id": 93,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Wynndren.webp",
+  	"name": "Wynndren",
+  	"height": "",
+  	"age": "",
+  	"date": "Jan 10, 2022 (Adopted on Sep 17, 2025)",
+  	"bio": "---",
+  	"link": "" 
 },
 {
   "id": 94,
