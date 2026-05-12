@@ -391,6 +391,26 @@
 	"link": "" 
 },
 {
+	"id": 49,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith2.webp",
+	"name": "Keith (Older)",
+	"height": "",
+	"age": "32",
+	"date": "Mar 7, 2022 (Jul 11, 2024)",
+	"bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker.",
+	"link": "" 
+},
+{
+    "id": 50,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theo2.webp",
+  	"name": "Theodore (Older)",
+  	"height": "",
+  	"age": "34",
+  	"date": "May 1, 2023 (Apr 22, 2025)",
+	"bio": "---",
+	"link": "" 
+},
+{
     	"id": 40,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lora.webp",
   	"name": "Lora",
@@ -418,10 +438,10 @@
   	"age": "",
   	"date": "Jul 30, 2023",
   	"bio": "Solstice’s strength was both her blessing and her burden within the Ashen Veil Tribe. While celebrated as top of her class in the tribe - a title earned through relentless training alongside Silvia and Brite – she often felt isolated by her raw power, struggling to reconcile it with the tribe's emphasis on balance and harmony. Their graduation was abruptly halted by the return of Litih, an exiled dark mage whose defeat required all their combined skill. Following the ceremony’s conclusion, Solstice chose a path diverging from her peers, seeking solitude on a remote Isle where she could connect with her own kind. \n\nHowever, survival demanded compromise, and she reluctantly accepted a position as an assassin under the ruthless Lucario leader, Reaper. The weight of each life taken chipped away at her soul until she encountered Krow, a young Grovyle whose vulnerability resonated deeply within her. Unable to reconcile Reaper’s brutality with her conscience, Solstice defied his orders, rescuing Krow and plotting an escape. \n\nSeeking refuge and purpose, Solstice infiltrated a newly forming Scouts clan, where she met Keith, Theodore, and Lora – individuals who would become invaluable allies. Together, they exposed Reaper’s operation, transforming the Scouts into The Pathfinder Guild, an organization dedicated to exploration, protection, and justice. Solstice now embraces a life of peace and camaraderie within the Guild, finally finding belonging and using her strength for good – a far cry from the solitary assassin she once was.",
-"link": "" 
+	"link": "" 
 },
 {
-    	"id": 43,
+	"id": 43,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elias.webp",
   	"name": "Elias",
   	"height": "",
@@ -442,66 +462,46 @@
 },
 {
     "id": 45,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Reaper.webp",
-  "name": "Reaper",
-  "height": "",
-  "age": "",
-  "date": "Jul 31, 2023",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Reaper.webp",
+	"name": "Reaper",
+	"height": "",
+	"age": "",
+	"date": "Jul 31, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    	"id": 46,
+	"id": 46,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krow.webp",
   	"name": "Krow",
   	"height": "",
   	"age": "",
   	"date": "Nov 14, 2023",
 	"bio": "Krow joined Reaper's Clan at a young age thinking it would be ticket to becoming the strongest Grovyle on the Isle, but instead was shown that wasn't Reaper's plan. He was forced to kill innocents. Out of guilt. and trauma, he would stay in hiding from Reaper's Clan over the years, but would eventually stumble across Gabriel.",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 47,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Alastor.webp",
-  "name": "Alastor",
-  "height": "",
-  "age": "",
-  "date": "Jul 31, 2023",
-	"bio": "---",
-"link": "" 
-},
-{
-    "id": 48,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Girabsol.webp",
-  "name": "Girabsol",
-  "height": "",
-  "age": "",
-  "date": "Aug 9, 2022",
-  "bio": "Following Tina's orders to kill whoever won the battle between brothers he already believed Flumf would lose but unexpectedly Flumf actually lived and won so Gira had to follow orders and kill his best friend his self \nAshamed and enraged from what he did he abandon Tina and everyone to possibly find a new path in his life \nGira notice that his portals lead to a different world he never seen before. \nAfter exploring a bit he realized he'll needed a better new disguise and with the help of the Griseous Orb he managed to make a new form altogether",
-"link": "" 
-},
-{
-    "id": 49,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith2.webp",
-  "name": "Keith (Older)",
-  "height": "",
-  "age": "32",
-  "date": "Mar 7, 2022 (Jul 11, 2024)",
-  "bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker.",
-"link": "" 
-},
-{
-    	"id": 50,
-  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theo2.webp",
-  	"name": "Theodore (Older)",
-  	"height": "",
-  	"age": "34",
-  	"date": "May 1, 2023 (Apr 22, 2025)",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Alastor.webp",
+	"name": "Alastor",
+	"height": "",
+	"age": "",
+	"date": "Jul 31, 2023",
 	"bio": "---",
 	"link": "" 
 },
 {
-    	"id": 51,
+    "id": 48,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Girabsol.webp",
+	"name": "Girabsol",
+	"height": "",
+	"age": "",
+	"date": "Aug 9, 2022",
+	"bio": "Following Tina's orders to kill whoever won the battle between brothers he already believed Flumf would lose but unexpectedly Flumf actually lived and won so Gira had to follow orders and kill his best friend his self \nAshamed and enraged from what he did he abandon Tina and everyone to possibly find a new path in his life \nGira notice that his portals lead to a different world he never seen before. \nAfter exploring a bit he realized he'll needed a better new disguise and with the help of the Griseous Orb he managed to make a new form altogether",
+"link": "" 
+},
+{
+	"id": 51,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Milo.webp",
   	"name": "Milo Heartwood",
   	"height": "11'06 (3.5m)",
@@ -511,7 +511,7 @@
 	"link": "https://toyhou.se/20688438.milo-heartwood" 
 },
 {
-    	"id": 52,
+	"id": 52,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nobuku.webp",
   	"name": "████████ | Nobuku",
   	"height": "",
@@ -522,26 +522,26 @@
 },
 {
     "id": 53,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Vulkor.webp",
-  "name": "Vulkor",
-  "height": "",
-  "age": "",
-  "date": "Jul 18, 2023",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Vulkor.webp",
+	"name": "Vulkor",
+	"height": "",
+	"age": "",
+	"date": "Jul 18, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 54,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Quinn.webp",
-  "name": "Quinn",
-  "height": "",
-  "age": "",
-  "date": "May 2, 2023",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Quinn.webp",
+	"name": "Quinn",
+	"height": "",
+	"age": "",
+	"date": "May 2, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    	"id": 55,
+    "id": 55,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rook.webp",
   	"name": "Rook",
   	"height": "",
@@ -551,7 +551,7 @@
 	"link": "" 
 },
 {
-    	"id": 56,
+    "id": 56,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kenna.webp",
   	"name": "Kenna | The Mad Scientist",
   	"height": "",
@@ -562,33 +562,33 @@
 },
 {
     "id": 57,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krivus.webp",
-  "name": "Krivus Draconis",
-  "height": "",
-  "age": "",
-  "date": "Jan 5, 2024",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krivus.webp",
+	"name": "Krivus Draconis",
+	"height": "",
+	"age": "",
+	"date": "Jan 5, 2024",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 58,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zorumaki.webp",
-  "name": "Zorumaki | The Mad King",
-  "height": "",
-  "age": "",
-  "date": "Jan 19, 2023",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zorumaki.webp",
+	"name": "Zorumaki | The Mad King",
+	"height": "",
+	"age": "",
+	"date": "Jan 19, 2023",
 	"bio": "---",
-"link": "https://toyhou.se/21016659.zorumaki" 
+	"link": "https://toyhou.se/21016659.zorumaki" 
 },
 {
     "id": 59,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Pubby.webp",
-  "name": "Pubby | The King",
-  "height": "",
-  "age": "",
-  "date": "Aug 5, 2023",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Pubby.webp",
+	"name": "Pubby | The King",
+	"height": "",
+	"age": "",
+	"date": "Aug 5, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 60,
@@ -834,86 +834,76 @@
 },
   {
     "id": 84,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Glyphlet.webp",
-  "name": "Glyphlet | The Scribe",
-  "height": "",
-  "age": "",
-  "date": "---",
-  "bio": "---",
-"link": "" 
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Glyphlet.webp",
+	"name": "Glyphlet | The Scribe",
+	"height": "",
+	"age": "",
+	"date": "May 6, 2026",
+	"bio": "---",
+	"link": "" 
 },
-  {
+{
     "id": 85,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Mossweaver.webp",
-  "name": "Mossweaver",
-  "height": "",
-  "age": "",
-  "date": "Jan 28, 2028",
-  "bio": "---",
-"link": "" 
-},
-  {
-    "id": 86,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kuruk.webp",
-  "name": "Kuruk",
-  "height": "",
-  "age": "",
-  "date": "---",
-  "bio": "---",
-"link": "" 
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Mossweaver.webp",
+	"name": "Mossweaver",
+	"height": "",
+	"age": "",
+	"date": "Jan 28, 2028",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 87,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tharn.webp",
-  "name": "Tharn | The Raider",
-  "height": "",
-  "age": "",
-  "date": "Aug 24, 2025",
-  "bio": "---",
-  "link": ""
+	"id": 86,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tharn.webp",
+	"name": "Tharn | The Raider",
+	"height": "",
+	"age": "",
+	"date": "Aug 24, 2025",
+	"bio": "---",
+	"link": ""
 },
 {
-  "id": 88,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Xylos.webp",
-  "name": "Xylos | The Space Captain",
-  "height": "",
-  "age": "",
-  "date": "Dec 7, 2025",
-  "bio": "---",
-  "link": "" 
+	"id": 87,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Xylos.webp",
+	"name": "Xylos | The Space Captain",
+	"height": "",
+	"age": "",
+	"date": "Dec 7, 2025",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 89,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Watcher.webp",
-  "name": "The Watcher | Night",
-  "height": "",
-  "age": "",
-  "date": "Dec 13, 2025",
-  "bio": "---",
-  "link": "" 
+	"id": 88,
+	"src": "	https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Watcher.webp",
+	"name": "The Watcher | Night",
+	"height": "",
+	"age": "",
+	"date": "Dec 13, 2025",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 90,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Saint.webp",
-  "name": "The Saint | Follower of Delta",
-  "height": "",
-  "age": "IMMORTAL",
-  "date": "Dec 30, 2025",
-  "bio": "---",
-  "link": "" 
+	"id": 89,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Saint.webp",
+	"name": "The Saint | Follower of Delta",
+	"height": "",
+	"age": "IMMORTAL",
+	"date": "Dec 30, 2025",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 91,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hunter.webp",
-  "name": "The Hunter",
-  "height": "",
-  "age": "",
-  "date": "Jan 5, 2026",
-  "bio": "---",
-  "link": "" 
+	"id": 90,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hunter.webp",
+	"name": "The Hunter",
+	"height": "",
+	"age": "",
+	"date": "Jan 5, 2026",
+	"bio": "---",
+	"link": "" 
 },
 {
-  	"id": 92,
+  	"id": 91,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/FlintDylan.webp",
   	"name": "Flint the Librarian | Dylan the Hitman",
   	"height": "",
@@ -923,7 +913,7 @@
   	"link": "" 
 },
 {
-  	"id": 920,
+  	"id": 92,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/FlintDylan.webp",
   	"name": "Dylan the Hitman",
   	"height": "",
@@ -943,49 +933,49 @@
   	"link": "" 
 },
 {
-  "id": 94,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Korumak.webp",
-  "name": "Korumak",
-  "height": "",
-  "age": "26",
-  "date": "Jan 5, 2026",
-  "bio": "---",
-  "link": "" 
+	"id": 94,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Korumak.webp",
+	"name": "Korumak",
+	"height": "",
+	"age": "26",
+	"date": "Jan 5, 2026",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 95,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Enot.webp",
-  "name": "Enot",
-  "height": "",
-  "age": "",
-  "date": "Mar 2, 2026",
-  "bio": "---",
-  "link": "" 
-},
+	"id": 95,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Enot.webp",
+	"name": "Enot",
+	"height": "",
+	"age": "",
+	"date": "Mar 2, 2026",
+	"bio": "---",
+	"link": "" 
+}
 {
-  "id": 96,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sofanthiel.webp",
-  "name": "Sofanthiel",
-  "height": "",
-  "age": "",
-  "date": "---, 2026",
-  "bio": "---",
-  "link": "" 
+	"id": 96,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kai.webp",
+	"name": "Kai",
+	"height": "",
+	"age": "24",
+	"date": "Apr 27, 2026",
+	"bio": "---",
+	"link": "" 
 },
 {
   "id": 97,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kai.webp",
-  "name": "Kai",
+  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
+  "name": "Lightness of Golden Beads & The Cartographer",
   "height": "",
-  "age": "24",
-  "date": "Apr 27, 2026",
+  "age": "",
+  "date": "May 15, 2023 (Co-owned on May 5, 2026)",
   "bio": "---",
   "link": "" 
 },
 {
   "id": 98,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
-  "name": "Lightness of Golden Beads & The Cartographer",
+  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Cartographer.webp",
+  "name": "The Cartographer",
   "height": "",
   "age": "",
   "date": "May 15, 2023 (Co-owned on May 5, 2026)",
@@ -1004,6 +994,26 @@
 },
 {
   "id": 100,
+  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sofanthiel.webp",
+  "name": "Sofanthiel",
+  "height": "",
+  "age": "",
+  "date": "---, 2026",
+  "bio": "---",
+  "link": "" 
+},
+{
+    "id": 101,
+  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kuruk.webp",
+  "name": "Kuruk",
+  "height": "",
+  "age": "",
+  "date": "---",
+  "bio": "---",
+"link": "" 
+},
+{
+  "id": 102,
   "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/???.webp",
   "name": "Roo Villain",
   "height": "",
