@@ -6,7 +6,7 @@
 	"height": "",
 	"age": "IMMORTAL",
 	"date": "Mar 3, 2022",
-	"bio": "The serene town of Pokémon was once home to two extraordinary beings: Theta and Gamma. From birth, Theta was unique—a fusion, though her powers remained dormant, rendering her unable to harness any of her inherent abilities. Orion, a celestial observer, watched over her with great interest as she navigated this limitation with remarkable creativity and resilience. \n\nOne fateful day, Gamma's mischievous pranks led to Theta being banished from their hometown. Misfortune was often blamed on her due to her unusual nature, casting a shadow of misfortune over her. Orion, intrigued by Theta’s ingenious adaptations and unyielding spirit, bestowed upon her the power of creation. With this divine gift, she became the Goddess of Creation, capable of crafting and merging universes according to her whims. ",
+	"bio": "A hybrid who was marginalized and exiled from her hometown for her creative thinking and unique nature, often blamed for misfortunes caused by her sibling, Gamma. Moved by pity, Orion granted her the ability to manifest any realm she desired, becoming the Goddess of Creation.",
 	"link": "https://toyhou.se/16279225.theta-the-creator" 
 },
 {
@@ -16,7 +16,7 @@
 	"height": "",
 	"age": "IMMORTAL",
 	"date": "Mar 31, 2022",
-	"bio": "This Adult that has adapted to hunt at night on the tops of volcanoes and high mountains near the desert where the sky helps to camouflage itself, can be territorial with creatures that disturb the peace of this area. His venom evolved to be neurotoxic and can cause severe disorientation in his victims. \nRuthless to all that challenged him he was mad with power. Alone in the universe with nobody \nDelta is the God of Destruction",
+	"bio": "The last survivor of a dying species, discovered by Orion and Gamma fighting invaders on a desolate mountain range. Seeking to prove his people's strength through dominance, he was chosen by Orion to be the final deity of their group, granted the dominion of death and destruction.",
 	"link": "https://toyhou.se/16279185.delta-the-devour" 
 },
 {
@@ -26,7 +26,7 @@
 	"height": "",
 	"age": "IMMORTAL",
 	"date": "Mar 6, 2022",
-	"bio": "Creator of all. Now just an observer of the universe.",
+	"bio": "The creator of all existence. During his travels, he encountered Theta and, moved by her plight as a marginalized hybrid, granted her the power to manifest worlds according to her imagination. He also bestowed powers upon Gamma in response to his grief over losing his sister. Later, after discovering Delta on a dying planet, Orion designated him as the final deity of their group, granting him dominion over death and destruction.",
 	"link": "https://toyhou.se/16279200.orion-the-observer" 
 },
 {
@@ -36,7 +36,7 @@
 	"height": "",
 	"age": "IMMORTAL",
 	"date": "Oct 7, 2024",
-	"bio": "Gamma, the brother of Theta, was a force of chaos from his earliest days. His unpredictable nature often led to both amusement and trouble in their small town leading to the banishment of his sister Theta. After pleas from Gamma for Orion to not leave him alone after taking his sister, Orion took interest in Gamma's chaotic influence and granted him lesser creative power of his sister, yet some destructive capabilities, transforming him into the God of Chaos. With his newfound power, Gamma reveled in the freedom to sow discord. With Theta’s newly crafted worlds, he decided to play a role, adding layers of unpredictability and dynamic energy to the realms she created together.",
+	"bio": "The biological sibling of Theta, whose mischief and pranks contributed to her exile. After mourning the loss of his sister, out of pity, he was granted powers by Orion; a mix of his sister’s creative abilities and destructive capabilities, becoming the God of Chaos.",
 	"link": "" 
 },
 {
@@ -53,11 +53,11 @@
     "id": 6,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Knox.webp",
 	"name": "Knox | Follower of Theta",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "May 5, 2023",
 	"bio": "A traveler of the lands spreading news of Theta",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 7,
@@ -103,21 +103,21 @@
     "id": 11,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tobias.webp",
 	"name": "Tobias",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "Feb 24, 2023",
 	"bio": "Tobias, the brother of Moxie is the brash member of Korumak's Alternative Collection (KAC).",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 12,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Moxie.webp",
 	"name": "Moxie",
-  "height": "",
-  "age": "",
+  	"height": "",
+  	"age": "",
 	"date": "Feb 24, 2023",
 	"bio": "Moxie, the sister of Tobias is the sliest member of Korumak's Alternative Collection (KAC).",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 13,
@@ -130,7 +130,7 @@
 	"link": "https://toyhou.se/16277380.flumf" 
 },
 {
-    	"id": 14,
+	"id": 14,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Flumf2.webp",
 	"name": "Flumf (Altered Form)",
   	"height": "",
@@ -140,7 +140,7 @@
 	"link": "https://toyhou.se/16277380.flumf/16622206.altered" 
 },
 {
-    	"id": 15,
+	"id": 15,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Crimson.webp",
 	"name": "Crimson",
   	"height": "",
@@ -150,7 +150,7 @@
 	"link": "https://toyhou.se/16277884.crimson" 
 },
 {
-    	"id": 16,
+	"id": 16,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lulu.webp",
   	"name": "Lulu",
   	"height": "",
@@ -160,7 +160,7 @@
 	"link": "" 
 },
 {
-    	"id": 17,
+	"id": 17,
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gira.webp",
   	"name": "Gira",
   	"height": "",
@@ -170,7 +170,7 @@
 	"link": "https://toyhou.se/16196161.gira" 
 },
 {
-    	"id": 18,
+	"id": 18,
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tina.webp",
   	"name": "Tina",
   	"height": "",
@@ -200,17 +200,17 @@
   	"link": "https://toyhou.se/16279134.maverick" 
 },
 {
-    	"id": 21,
+    "id": 21,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eros.webp",
   	"name": "Eros Lovecore | The Mayor",
   	"height": "",
   	"age": "",
   	"date": "Feb 9, 2023",
 	"bio": "Mayor of The Isle, sharing love and positivity",
-"link": "" 
+	"link": "" 
 },
 {
-    	"id": 22,
+	"id": 22,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Galileo.webp",
   	"name": "Galileo",
   	"height": "",
@@ -227,20 +227,20 @@
   	"age": "",
   	"date": "Aug 21, 2023",
 	"bio": "With a dream of being famous, him and his close friend Luna lived their simple lives together with a basic job until a run in with Eugene (Maverick) changed their lives. Now as Maverick's pupil, learning the ways of life as a future Rockstar under Korumak's Alternative Collection (KAC)",
-  "link": "" 
+	"link": "" 
 },
 {
-    	"id": 24,
+	"id": 24,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Luna.webp",
   	"name": "Luna",
   	"height": "",
   	"age": "",
   	"date": "Oct 5, 2024",
 	"bio": "Luna never had a family growing up, finding a sibling like bond with Rocko, sticking close at all opportunities. Living a simple life until meet Eugene taking both of them under his wing to provide her the family she always wanted.",
-  "link": "" 
+	"link": "" 
 },
 {
-    	"id": 25,
+	"id": 25,
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nova.webp",
   	"name": "Nova",
   	"height": "",
@@ -251,7 +251,7 @@
 	"extra": "Nova and him were split as kids since she was caught by a trainer to end up having a relationship with her trainer pokephilia but they decided to go their separate ways to avoid getting into too much trouble (thats a different story) which ended up with her finding her long lost brother Tyler"
 },
 {
-    	"id": 26,
+	"id": 26,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gabriel.webp",
   	"name": "Gabriel",
   	"height": "",
@@ -271,7 +271,7 @@
 	"link": "" 
 },
 {
-    	"id": 28,
+	"id": 28,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/David.webp",
  	"name": "David Wildclaw | The Champion",
 	"height": "",
@@ -281,17 +281,17 @@
 	"link": "" 
 },
 {
-    	"id": 29,
+	"id": 29,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tyler.webp",
   	"name": "Tyler",
   	"height": "",
   	"age": "",
   	"date": "Nov 26, 2021 (OG Early 2010)",
-	"bio": "Abandoned at birth alongside his sister Nova, both separated during their childhood. Tyler was raised by a group of [INSERT] until receiving an anonymous letter on the location of his sister.  He managed to pick up a job babysitting for Hereford thanks to his step brother's connection to Elliot. While babysitting he gain the attention of Benjamin, who would take him in to train him along side David. After hearing of his training, Hereford would invite him to join the Guardians. One day after babysitting Tyler would spot his future mate. Later having a Cyndaquil son named Joshua, then to adopt an Zorua years later. \n \nReceiving intense training from David and Benjamin, Tyler is set to becoming the next Champion of The Isle.",
+	"bio": "Abandoned at birth alongside his sister Nova, both separated during their childhood. Tyler was raised by a group of ████████ until receiving an anonymous letter on the location of his sister. He managed to pick up a job babysitting for Hereford thanks to his step brother's connection to Elliot. While babysitting he gain the attention of Benjamin, who would take him in to train him along side David. After hearing of his training, Hereford would invite him to join the Guardians. One day after babysitting Tyler would spot his future mate. Later having a Cyndaquil son named Joshua, then to adopt an Zorua years later. \n \nReceiving intense training from David and Benjamin, Tyler is set to becoming the next Champion of The Isle.",
 	"link": "" 
 },
 {
-    	"id": 30,
+	"id": 30,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Apostle.webp",
   	"name": "Apostle Wake | The Sheriff",
   	"height": "",
@@ -311,33 +311,33 @@
 	"link": "https://toyhou.se/16455751.caspian" 
 },
 {
-    	"id": 32,
+	"id": 32,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elliot.webp",
   	"name": "Elliot | Guardian Strength",
-  	"height": "",
+  	"height": "80",
   	"age": "",
   	"date": "Jun 21, 2021 (OG Early 2010)",
-	"bio": "One of the three Guardian leaders. Elliot brings the physical strength to the trio, being Hereford's second in command, mates with Nova, and father of Gabriel.",
+	"bio": "One of the three Guardian leaders. Elliot brings the physical strength to the trio, being Hereford|Hereford's closest friend, mates with Nova, and father of Gabriel.",
 	"link": "" 
 },
 {
-    	"id": 33,
+	"id": 33,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hereford.webp",
-  	"name": "Hereford | Guardian Leader",
+  	"name": "Hereford | Second in Command",
   	"height": "",
-  	"age": "",
+  	"age": "44",
   	"date": "Jun 15, 2022 (OG Early 2010)",
-	"bio": "One of the three Guardian leaders. Hereford is the leader of The Guardians. He's still has assassin skills so his strength more or less matters but being a leader has to make you know your stuff heh",
+	"bio": "A former second-in-command of Reaper's Clan. Following The Great Firestorm, which claimed his mate, he sought to protect his son, ████. He secretly dissociated from Reaper and was accepted into The Guardians by Kulta specifically to escape Reaper's influence. While he retains his lethal assassin skills, he serves as the second-in-command to Kulta.",
 	"link": "" 
 },
 {
-    	"id": 34,
+	"id": 34,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kulta.webp",
-  	"name": "Kulta | Guardian Bookkeeper",
-  	"height": "",
+  	"name": "Kulta | The Founding Guardian",
+  	"height": "98",
   	"age": "",
   	"date": "Nov 17, 2022 (OG Early 2010)",
-	"bio": "One of the three Guardian leaders. Kulta brings strategic planning to the trio, being Hereford's main strategist.",
+	"bio": "As one of the three Guardian leaders, Kulta is the founder of The Guardians. He oversees the group's operations, providing the vision and strategic planning for the organization. ",
 	"link": "" 
 },
 {
@@ -371,7 +371,7 @@
 	"link": "" 
 },
 {
-    	"id": 38,
+	"id": 38,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith.webp",
   	"name": "Keith",
   	"height": "4'05 (1.35m)",
@@ -381,7 +381,7 @@
 	"link": "https://toyhou.se/16578860.keith" 
 },
 {
-    	"id": 39,
+	"id": 39,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theodore.webp",
   	"name": "Theodore",
   	"height": "",
@@ -411,7 +411,7 @@
 	"link": "" 
 },
 {
-    	"id": 40,
+	"id": 40,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lora.webp",
   	"name": "Lora",
   	"height": "",
@@ -421,7 +421,7 @@
 	"link": "" 
 },
 {
-    	"id": 41,
+	"id": 41,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Thomas.webp",
   	"name": "Thomas",
   	"height": "",
@@ -431,7 +431,7 @@
 	"link": "" 
 },
 {
-    	"id": 42,
+	"id": 42,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Solstice.webp",
  	"name": "Solstice",
   	"height": "",
@@ -592,11 +592,11 @@
 },
 {
     "id": 60,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Silvia.webp",
-  "name": "Silvia 'Ghostclaw'",
-  "height": "",
-  "age": "",
-  "date": "Oct 21, 2024",
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Silvia.webp",
+ 	"name": "Silvia 'Ghostclaw'",
+ 	"height": "",
+ 	"age": "",
+  	"date": "Oct 21, 2024",
 	"bio": "---",
 	"link": "https://toyhou.se/30067030.silvia-ghostclaw" 
 },
@@ -662,7 +662,7 @@
 	"link": "" 
 },
 {
-    	"id": 67,
+	"id": 67,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sweet.webp",
   	"name": "Sweet",
   	"height": "",
@@ -672,7 +672,7 @@
 	"link": "" 
 },
 {
-    	"id": 68,
+	"id": 68,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sour.webp",
   	"name": "Sour",
   	"height": "",
@@ -682,7 +682,7 @@
 	"link": "" 
 },
 {
-    	"id": 69,
+	"id": 69,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Brite.webp",
   	"name": "Brite | The Warrior",
   	"height": "",
@@ -713,53 +713,53 @@
 },
 {
     "id": 72,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Spearmaster.webp",
-  "name": "Spearmaster",
-  "height": "",
-  "age": "19",
-  "date": "Apr 29, 2025",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Spearmaster.webp",
+	"name": "Spearmaster",
+	"height": "",
+  	"age": "19",
+  	"date": "Apr 29, 2025",
 	"bio": "Engineered by the Iterator Seven Red Suns to deliver vital messages, Spearmaster was transported from an alternate universe along with his closest companion, Rivulet. After waking in this new world, he met Matt soon forming a bond. His hunting style is often described as oddly feral, a trait that Rivulet finds overwhelming but accepts as part of his nature. While he is a slugcat of few words, his role as a protector and anchor for those around him is well-established. He frequently endures the nickname \"Speary\" from Rivulet, despite finding it simplistic; they are often mistaken for mates by others and are currently working with Matt to find a stable home. ",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 73,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zephyr.webp",
-  "name": "Zephyr the Sochuri - WIP",
-  "height": "",
-  "age": "",
-  "date": "Dec 5, 2023",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zephyr.webp",
+  	"name": "Zephyr the Sochuri - WIP",
+	"height": "",
+  	"age": "",
+  	"date": "Dec 5, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 74,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Raptor.webp",
-  "name": "Taryk the Seikret",
-  "height": "",
-  "age": "",
-  "date": "Jul 16, 2023",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Raptor.webp",
+  	"name": "Taryk the Seikret",
+  	"height": "",
+  	"age": "",
+  	"date": "Jul 16, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
-    "id": 75,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zirak.webp",
-  "name": "Zirak - WIP",
-  "height": "",
-  "age": "",
-  "date": "Jun 24, 2023",
+	"id": 75,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Zirak.webp",
+  	"name": "Zirak - WIP",
+  	"height": "",
+  	"age": "",
+  	"date": "Jun 24, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 76,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Death.webp",
-  "name": "Death - WIP",
-  "height": "",
-  "age": "IMMORTAL",
-  "date": "Mar 28, 2022",
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Death.webp",
+  	"name": "Death - WIP",
+  	"height": "",
+  	"age": "IMMORTAL",
+  	"date": "Mar 28, 2022",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 77,
@@ -773,64 +773,64 @@
 },
 {
     "id": 78,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/kid2.webp",
-  "name": "Toto/Eevee - SCRAP",
-  "height": "",
-  "age": "",
-  "date": "Aug 7, 2023",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/kid2.webp",
+  	"name": "Toto/Eevee - SCRAP",
+  	"height": "",
+  	"age": "",
+  	"date": "Aug 7, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 79,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kyu.webp",
-  "name": "Kyu | Color Sorrow",
-  "height": "",
-  "age": "480",
-  "date": "- - -",
-  "bio": "As the eldest of the sisters, Kyu is deeply haunted by the past. She was devastated by the loss of Flumf's Zekrom brother and remained reclusive due to the unwanted attention from Crimson. After fleeing their home realm for The Roslom Region, she has been consumed by a profound sadness over the disappearance of her middle sister, Resha. While she struggles to stay present, she relies on the bond she shares with Zeku and Victoria to keep going.",
-"link": "" 
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kyu.webp",
+  	"name": "Kyu | Color Sorrow",
+  	"height": "",
+  	"age": "480",
+  	"date": "- - -",
+  	"bio": "As the eldest of the sisters, Kyu is deeply haunted by the past. She was devastated by the loss of Flumf's Zekrom brother and remained reclusive due to the unwanted attention from Crimson. After fleeing their home realm for The Roslom Region, she has been consumed by a profound sadness over the disappearance of her middle sister, Resha. While she struggles to stay present, she relies on the bond she shares with Zeku and Victoria to keep going.",
+	"link": "" 
 },
 {
     "id": 80,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
-  "name": "IO-X003: Ignisoul | The Guardian of Light",
-  "height": "",
-  "age": "",
-  "date": "June 23, 2025",
-  "bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003 \nDesignation: Ignisoul \nPurpose: This experiment was designed as the successor to the failed subject, Titanhide. The Guardian of Light is intended to properly protect all life forms within the surrounding area, possessing numerous abilities including Grove Revival (produces a radius to heal itself and other creatures), Echo Projections (creates short-lived, semi-solid light clones of itself), and Harmonic Resonance (generates sound waves at tunable frequencies, reducing aggression in other creatures; tested on a Scavenger)—all to further its designated goal.\n\nNotes: The subject has maintained its physical form; however, subsequent observations indicate a tendency for progressive color changes dependent on actions. This is concerning, as the subject appears to be evolving into a corrupted version of itself when attempting to heal other life forms. Furthermore, it demonstrates an accelerated learning rate exceeding initial projections. Inquiry: Is this behavior indicative of loneliness, or simply a manifestation of heightened efficiency? The introduction of designated entities—Stormpaw or Aetherpaw—may prove instrumental in establishing appropriate social interactions. \n\n- Imaginary Obelisk, Localized",
-  "extra": "I regret resorting to using my Experiment's names. I have developed a concern for their well-being.",
-"link": "" 
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
+  	"name": "IO-X003: Ignisoul | The Guardian of Light",
+  	"height": "",
+  	"age": "",
+  	"date": "June 23, 2025",
+  	"bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003 \nDesignation: Ignisoul \nPurpose: This experiment was designed as the successor to the failed subject, Titanhide. The Guardian of Light is intended to properly protect all life forms within the surrounding area, possessing numerous abilities including Grove Revival (produces a radius to heal itself and other creatures), Echo Projections (creates short-lived, semi-solid light clones of itself), and Harmonic Resonance (generates sound waves at tunable frequencies, reducing aggression in other creatures; tested on a Scavenger)—all to further its designated goal.\n\nNotes: The subject has maintained its physical form; however, subsequent observations indicate a tendency for progressive color changes dependent on actions. This is concerning, as the subject appears to be evolving into a corrupted version of itself when attempting to heal other life forms. Furthermore, it demonstrates an accelerated learning rate exceeding initial projections. Inquiry: Is this behavior indicative of loneliness, or simply a manifestation of heightened efficiency? The introduction of designated entities—Stormpaw or Aetherpaw—may prove instrumental in establishing appropriate social interactions. \n\n- Imaginary Obelisk, Localized",
+  	"extra": "I regret resorting to using my Experiment's names. I have developed a concern for their well-being.",
+	"link": "" 
  },
 {
     "id": 81,
- "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
-  "name": "IO-X003-A: Ignisoul (Corrupted) | The Guardian of Light",
-  "height": "",
-  "age": "",
-  "date": "June 23, 2025",
-  "bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003-A \nDesignation: Ignisoul '(Corrupted)' \nPurpose: The Guardian of Light is intended to properly protect all life forms within the surrounding area; however, observations suggest this subject represents a corrupted version of the expected outcome. The creature possesses abilities distinct from its regular form, including Soul-Link (briefly possessing other creatures), Symbiotic Charging (draining residual energy from other creatures), and Triggered Overglow (a last resort of energy expanding into a radiant explosion, blinding and burning unprotected organisms. subject loses its form). \n\nNotes: In this corrupted state, it tends to perform the opposite of its intended purpose, though it never resorts to killing—perhaps indicating a core design limitation preventing further escalation. It still follows directives given while in this form but does display increased aggression. \n\n- Imaginary Obelisk, Localized",
-"link": "" 
+ 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
+  	"name": "IO-X003-A: Ignisoul (Corrupted) | The Guardian of Light",
+  	"height": "",
+  	"age": "",
+  	"date": "June 23, 2025",
+  	"bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003-A \nDesignation: Ignisoul '(Corrupted)' \nPurpose: The Guardian of Light is intended to properly protect all life forms within the surrounding area; however, observations suggest this subject represents a corrupted version of the expected outcome. The creature possesses abilities distinct from its regular form, including Soul-Link (briefly possessing other creatures), Symbiotic Charging (draining residual energy from other creatures), and Triggered Overglow (a last resort of energy expanding into a radiant explosion, blinding and burning unprotected organisms. subject loses its form). \n\nNotes: In this corrupted state, it tends to perform the opposite of its intended purpose, though it never resorts to killing—perhaps indicating a core design limitation preventing further escalation. It still follows directives given while in this form but does display increased aggression. \n\n- Imaginary Obelisk, Localized",
+	"link": "" 
   },
   {
     "id": 82,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Artificer.webp",
-  "name": "Artificer",
-  "height": "",
-  "age": "15",
-  "date": "July 16, 2025",
-  "bio": "---",
-"link": "" 
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Artificer.webp",
+  	"name": "Artificer",
+  	"height": "",
+  	"age": "15",
+  	"date": "July 16, 2025",
+  	"bio": "---",
+	"link": "" 
 },
   {
     "id": 83,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Shatterjaw.webp",
-  "name": "Shatterjaw | The Leader",
-  "height": "",
-  "age": "10",
-  "date": "Oct 28, 2025",
-  "bio": "---",
-"link": "" 
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Shatterjaw.webp",
+  	"name": "Shatterjaw | The Leader",
+  	"height": "",
+  	"age": "10",
+  	"date": "Oct 28, 2025",
+	"bio": "---",
+	"link": "" 
 },
   {
     "id": 84,
@@ -947,9 +947,9 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Enot.webp",
 	"name": "Enot",
 	"height": "",
-	"age": "",
+	"age": "14",
 	"date": "Mar 2, 2026",
-	"bio": "---",
+	"bio": "Co-worker with Sofanthiel. He works as a personal servant to the customers tending, willing to sell his body for their personal satisfaction.",
 	"link": "" 
 },
 {
@@ -963,73 +963,93 @@
 	"link": "" 
 },
 {
-  "id": 97,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
-  "name": "Lightness of Golden Beads & The Cartographer",
-  "height": "",
-  "age": "",
-  "date": "May 15, 2023 (Co-owned on May 5, 2026)",
-  "bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
-  "link": "" 
+  	"id": 97,
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
+	"name": "Lightness of Golden Beads & The Cartographer",
+	"height": "",
+	"age": "",
+	"date": "May 15, 2023 (Co-owned on May 5, 2026)",
+	"bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
+	"link": "" 
 },
 {
-  "id": 98,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Cartographer.webp",
-  "name": "The Cartographer",
-  "height": "",
-  "age": "",
-  "date": "May 15, 2023 (Co-owned on May 5, 2026)",
-  "bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
-  "link": "" 
+	"id": 98,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Cartographer.webp",
+	"name": "The Cartographer",
+	"height": "",
+	"age": "",
+	"date": "May 15, 2023 (Co-owned on May 5, 2026)",
+	"bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
+	"link": "" 
 },
 {
-  "id": 99,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Bounty.webp",
-  "name": "Talon | The Bounty Hunter",
-  "height": "",
-  "age": "",
-  "date": "May 10, 2026",
-  "bio": "---",
-  "link": "" 
+	"id": 99,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Bounty.webp",
+	"name": "Talon | The Bounty Hunter",
+	"height": "",
+	"age": "",
+	"date": "May 10, 2026",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 100,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sofanthiel.webp",
-  "name": "Sofanthiel | Follower of Gamma Vandal Maelstrom",
-  "height": "",
-  "age": "",
-  "date": "June 18, 2026",
-  "bio": "Receiving random funds from a mysterious source, Sofanthiel would create a strip club within The Druron Kingdom. Eventually meeting and hiring Enot as his co-owner and main server.",
-  "link": "" 
+	"id": 100,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Sofanthiel.webp",
+	"name": "Sofanthiel | Follower of Gamma Vandal Maelstrom",
+	"height": "",
+	"age": "43",
+	"date": "June 18, 2026",
+	"bio": "Receiving random funds from a mysterious source, Sofanthiel would create a strip club within The Druron Kingdom. Eventually meeting and hiring Enot as his co-owner and main server.",
+	"link": "" 
 },
 {
     "id": 101,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kuruk.webp",
-  "name": "Kuruk",
-  "height": "",
-  "age": "",
-  "date": "Aug 8, 2026",
-  "bio": "He is a kind Scavenger that is trying to help Artificer overcome her hatred of his species. When his mate was kidnapped he became more agitated and frustrated but is still trying to care for Artificer.",
-"link": "" 
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kuruk.webp",
+	"name": "Kuruk",
+	"height": "",
+	"age": "",
+	"date": "Aug 8, 2026",
+	"bio": "He is a kind Scavenger that is trying to help Artificer overcome her hatred of his species. When his mate was kidnapped he became more agitated and frustrated but is still trying to care for Artificer.",
+	"link": "" 
 },
 {
-  "id": 102,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/???.webp",
-  "name": "Roo Villain",
-  "height": "",
-  "age": "",
-  "date": "2026",
-  "bio": "---",
-  "link": "" 
+	"id": 102,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/???.webp",
+	"name": "Roo Villain",
+	"height": "",
+	"age": "",
+	"date": "2026",
+	"bio": "---",
+	"link": "" 
 },
 {
-  "id": 103,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Trio.webp",
-  "name": "Straw, Lime & Sapphire",
-  "height": "",
-  "age": "",
-  "date": "Jul 26, 2026",
-  "bio": "Straw, Lime, and Sapphire are all thieves",
-  "link": "" 
+	"id": 103,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Trio.webp",
+	"name": "Straw, Lime & Sapphire",
+	"height": "",
+	"age": "",
+	"date": "Jul 26, 2026",
+	"bio": "Straw, Lime, and Sapphire are all thieves",
+	"link": "" 
+},
+{
+	"id": 104,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Jiro.webp",
+	"name": "Jiro Yuzme Kipper",
+	"height": "",
+	"age": "",
+	"date": "Sep 2, 2026",
+	"bio": "Jiro Yuzme Kipper is the embodiment of stoic discipline. In the heat of battle or during high-stakes inspections, he remains almost entirely expressionless, projecting an aura of unshakeable calm. However, beneath this exterior lies a stubborn and occasionally hot-headed nature. He is fiercely loyal to King Pubby, whose orders are the only ones he truly respects; he harbors a deep disdain for taking direction from anyone else in higher or similar positions than him. \n\nWhen off duty, Jiro's stoic mask slips significantly. While he remains naturally stubborn, his personality becomes more expressive as he seeks out Sofanthiel’s club to unwind with Enot.\n\nHe serves as a high-ranking Royal Knight Inspector for the Kingdom of Druron. His primary responsibility is overseeing the royal guards, ensuring that the kingdom's protectors remain true to their duties and free from internal corruption. His fighting style is characterized by patience and extreme skill—he waits for the perfect opening before striking with decisive precision.\n\nA notable personal fact is his proficiency as a swimmer, a testament to his otter lineage, though he rarely finds himself in water during official business.",
+	"link": ""
+},
+{
+	"id": 105,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/GLaSS.webp",
+	"name": "GLaSS | Genetic Logic and Systemic Sentinel",
+	"height": "",
+	"age": "IMMORTAL",
+	"date": "",
+	"bio": "GLaSS (Genetic Logic & Systemic Sentinel) was constructed by the Ancients to serve as a safety valve for the world’s progress. While other Iterators pursue the success of Ascension, GLaSS is dedicated to the study of testing. She manages \"The Forbidden Zone,\" a subterranean labyrinth where volatile species and past experiments are contained. Her primary duties include stress-testing new technologies, biological mutations, and potential Ascension candidates to determine their breaking points before they can impact the wider world.\n\nTo GLaSS, her creators were never parents; they were merely Project Managers who finished their shift and walked out of the building, leaving her with the keys to a basement full of leftover toys.\n\nShe acts as the ultimate gatekeeper for the archives of tests preformed. While the Ascensionists often seek her data to avoid repeating historical mistakes, GLaSS makes them work for it, viewing their quest for \"success\" with dismissive amusement. She contributes indirectly to the surface rain cycle via a geothermal cooling system that expels waste water into deep aquifers, which eventually rises as steam/rain.",
+	"link": "" 
 }
 ]
