@@ -885,11 +885,11 @@
 {
 	"id": 89,
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Saint.webp",
-	"name": "The Saint | Follower of Delta",
+	"name": "Subject 512 | The Saint",
 	"height": "",
 	"age": "IMMORTAL",
 	"date": "Dec 30, 2025",
-	"bio": "---",
+	"bio": "Subject 512 was created by GLaSS as an experiment involving the injection and manipulation of Void Fluids within Slugcat physiology. After various tests and designs, he was destined to be the ultimate solution to \"The Great Problem,\" but his overwhelming potential rendered him a perceived \"failure\" in GLaSS's eyes. He was sent and held within The Forbidden Zone, categorized as a risk to be utilized above on the surface. \n\nWithin the underground facility, Subject 256 (The Savior) became his mentor and guide. She eased him into the society built over time in the labyrinth, guided him through trials of the underground, and helped him escape from the facility. During their first interaction, she gave him his signature bandana, which now serves as a token of their enduring bond. Following his departure, Subject 512 earned the title \"The Saint\" among his peers and became a secondary leader alongside The Savior. \n\nHe experienced blurry vague visions of what he should do or has done, or rare glimpses of alternate universe selves appearing as dreams or temporary hallucinations. He would ramble theories about The Cycle to The Savior in private, trusting her with information so others wouldn't think him crazy. Though she tried to help, she couldn't understand anything he described. His visions of being needed elsewhere prompted him to ask for her assistance in leaving the Forbidden Zone to pursue his vague goals. \n\nThe Saint eventually escaped the underground facility and now roams the overworld as a nomadic wanderer, spreading knowledge and wisdom to those who seek it. His exposure to Void Fluids has granted him awareness of The Cycle, the nature of Ascension, and even the existence of parallel versions of himself and others across countless other cycles. When creatures threaten to harm others, he chooses compassion over Ascension, which earns him deep respect from other beings who witness his approach. \n\nHe maintains a profound respect for GLaSS, his creator, never speaking ill of her purpose or revealing his true origins to protect those still held within the Forbidden Zone, whom he considers kin. While aware that \"high beings\" (Delta) are possibility tracking his movements with interest, he remains elusive, preferring to interact with the world on its own terms. He does not seek to rule; he seeks to provide closure for a world caught in an endless loop.",
 	"link": "" 
 },
 {
@@ -1050,6 +1050,16 @@
 	"age": "IMMORTAL",
 	"date": "",
 	"bio": "GLaSS (Genetic Logic & Systemic Sentinel) was constructed by the Ancients to serve as a safety valve for the world’s progress. While other Iterators pursue the success of Ascension, GLaSS is dedicated to the study of testing. She manages \"The Forbidden Zone,\" a subterranean labyrinth where volatile species and past experiments are contained. Her primary duties include stress-testing new technologies, biological mutations, and potential Ascension candidates to determine their breaking points before they can impact the wider world.\n\nTo GLaSS, her creators were never parents; they were merely Project Managers who finished their shift and walked out of the building, leaving her with the keys to a basement full of leftover toys.\n\nShe acts as the ultimate gatekeeper for the archives of tests preformed. While the Ascensionists often seek her data to avoid repeating historical mistakes, GLaSS makes them work for it, viewing their quest for \"success\" with dismissive amusement. She contributes indirectly to the surface rain cycle via a geothermal cooling system that expels waste water into deep aquifers, which eventually rises as steam/rain.",
+	"link": "" 
+},
+{
+	"id": 106,
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Savior.webp",
+	"name": "Subject 256 | The Savior",
+	"height": "",
+	"age": "18",
+	"date": "Oct 5, 2026",
+	"bio": "Created by GLaSS as Subject 256, she was designed to be a flight abled creature. Now she deliciated herself to help harmonize the surviving subjects dumped into the underground facility. Recognized for her kindness and ability to manage resources, the other experiments came to know her as \"The Savior.\" She serves as the de facto leader of the upper layers, keeping order among the surrounding experiments so that they do not destroy one another or the facility itself. \n\nWhen Subject 512 was dropped into the region under her care, she was the one to ease him into the society that had been built over time. She acted as his mentor, guiding him through the trials of the underground and eventually helping him escape from the facility. During their first interaction time together, he received his now signature bandana from her, which is now acts as a token of their bond. Following his departure, Subject 512 earned the title \"The Saint\" among his peers and became a secondary leader alongside Subject 256. She remains within The Forbidden Zone, continuing to protect and guide those who are still trapped in the labyrinth below.",
 	"link": "" 
 }
 ]
