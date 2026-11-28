@@ -5,6 +5,7 @@
 	"name": "Theta | The Goddess of Creation",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Mar 3, 2022",
 	"bio": "A hybrid who was marginalized and exiled from her hometown for her creative thinking and unique nature, often blamed for misfortunes caused by her sibling, Gamma. Moved by pity, Orion granted her the ability to manifest any realm she desired, becoming the Goddess of Creation.",
 	"link": "https://toyhou.se/16279225.theta-the-creator" 
@@ -15,6 +16,7 @@
 	"name": "Delta | The God of Destruction",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Mar 31, 2022",
 	"bio": "The last survivor of a dying species, discovered by Orion and Gamma fighting invaders on a desolate mountain range. Seeking to prove his people's strength through dominance, he was chosen by Orion to be the final deity of their group, granted the dominion of death and destruction.",
 	"link": "https://toyhou.se/16279185.delta-the-devour" 
@@ -25,6 +27,7 @@
 	"name": "Orion | The Observer",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Mar 6, 2022",
 	"bio": "The creator of all existence. During his travels, he encountered Theta and, moved by her plight as a marginalized hybrid, granted her the power to manifest worlds according to her imagination. He also bestowed powers upon Gamma in response to his grief over losing his sister. Later, after discovering Delta on a dying planet, Orion designated him as the final deity of their group, granting him dominion over death and destruction.",
 	"link": "https://toyhou.se/16279200.orion-the-observer" 
@@ -35,6 +38,7 @@
 	"name": "Gamma Vandal Maelstrom | The God of Chaos",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Oct 7, 2024",
 	"bio": "The biological sibling of Theta, whose mischief and pranks contributed to her exile. After mourning the loss of his sister, out of pity, he was granted powers by Orion; a mix of his sister’s creative abilities and destructive capabilities, becoming the God of Chaos.",
 	"link": "" 
@@ -45,6 +49,7 @@
 	"name": "Kuromori | The Goddess of Population",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Jul 9, 2022",
 	"bio": "Kuromori (aka. Tina) was released from the Distortion World by Theta to become the newest God of the universe.",
 	"link": "https://toyhou.se/16277804.kuromori-tina/18257911.kuromori" 
@@ -54,7 +59,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Knox.webp",
 	"name": "Knox | Follower of Theta",
   	"height": "",
-  	"age": "",
+  	"age": "63",
+	"chronoage": "",
 	"date": "May 5, 2023",
 	"bio": "A traveler of the lands spreading news of Theta",
 	"link": "" 
@@ -65,6 +71,7 @@
 	"name": "Resha",
 	"height": "",
 	"age": "479",
+	"chronoage": "60",
 	"date": "Dec 8, 2020",
 	"bio": "Following the events involving Crimson and Flumf, she traveled with her sisters through The Legendary Palace to travel to The Roslom Region. Upon arrival, she decided to head off on her own path and since gone missing within that world, leaving a void in the lives of Kyu and Zeku.",
 	"link": "https://toyhou.se/13933201.resha" 
@@ -75,6 +82,7 @@
 	"name": "Zeku | Powder Reject",
 	"height": "",
 	"age": "478",
+	"chronoage": "59",
 	"date": "Mar 10, 2022",
 	"bio": "The youngest of the sisters, Zeku has stepped into a role of strength to support her older sibling, Kyu. After Resha went missing in The Roslom Region, Zeku took it upon herself to stay strong for both Kyu and the memory of their family. To help keep Kyu's spirits up, she adopted a rebellious personality in the form of Flumf—a trait she eventually grew to love and integrated into her music production. During their time in the new dimension, she would find Korumak's Alternative Collection. There she would meet and formed a deep bond with Victoria, finding in them new allies and friends who understand the weight of their journey.",
 	"link": "https://toyhou.se/16278875.zeku" 
@@ -84,7 +92,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Victoria.webp",
 	"name": "Victoria | Victory Palace",
 	"height": "",
-	"age": "36",
+	"age": "14",
+	"chronoage": "36",
 	"date": "Jan 23, 2022",
 	"bio": "Victoria is a member of Korumak's Alternative Collection (KAC). After meeting Zeku and Kyu in The Roslom Region, she formed an incredibly close sisterly bond with them. While she is not part of their original family, she has become a vital source of cheerfulness for the two sisters, often acting as a lighthearted anchor during their travels. She is widely considered the most cheerful person in the group.",
 	"link": "https://toyhou.se/16277965.victoria" 
@@ -94,7 +103,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Vincent.webp",
 	"name": "Vincent Bitti",
 	"height": "12'02 (3.71m)",
-	"age": "186",
+	"age": "204",
+	"chronoage": "51",
 	"date": "Oct 3, 2022",
 	"bio": "Vincent is an entrepreneur in multiple industries, and the current owner of Korumak's Alternative Collection (KAC). Having recently gained ownership from Korumak, he rebranded the label to his liking. Later meeting Galileo, to provide the funds to open a bar on the Isle, leaving him in charge of bartending there. Latest achievement was offering a deal with Maverick, signing him into the brand with other talents featured.",
 	"link": "https://toyhou.se/18258348.vincent-bitti" 
@@ -104,7 +114,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tobias.webp",
 	"name": "Tobias",
   	"height": "",
-  	"age": "",
+  	"age": "30",
+	"chronoage": "",
 	"date": "Feb 24, 2023",
 	"bio": "Tobias, the brother of Moxie is the brash member of Korumak's Alternative Collection (KAC).",
 	"link": "" 
@@ -114,7 +125,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Moxie.webp",
 	"name": "Moxie",
   	"height": "",
-  	"age": "",
+  	"age": "30",
+	"chronoage": "",
 	"date": "Feb 24, 2023",
 	"bio": "Moxie, the sister of Tobias is the sliest member of Korumak's Alternative Collection (KAC).",
 	"link": "" 
@@ -125,6 +137,7 @@
 	"name": "Flumf",
 	"height": "",
 	"age": "477",
+	"chronoage": "59",
 	"date": "Jun 16, 2021",
 	"bio": "Flumf is deranged and mentally unstable, characterized by messy fur and an erratic temperament. He always looked up to his older Zekrom Brother as a role model. After their brother sacrificed himself during a battle against shadow creatures, Crimson blamed Flumf for the loss and sought bloody revenge.\n\nLeft defeated, nearing death he was saved by Resha, who fused with him to sustain his life. After years of recovery, he eventually forced her to defuse, leading to a period of mayhem that drew the attention of both Crimson and Theta. Sensing each other's presences, Flumf sought refuge and safety with Gira, who provided sanctuary within his Distortion World. He knew he would have to reface his Brother soon.... ",
 	"link": "https://toyhou.se/16277380.flumf" 
@@ -135,6 +148,7 @@
 	"name": "Flumf (Altered Form)",
   	"height": "",
   	"age": "478",
+	"chronoage": "59",
 	"date": "Jan 18, 2022",
 	"bio": "Prolong exposure within The Distortion World transformed Flumf into an altered form that is unnatural for his species. While seeking refuge from Crimson's rampage, Gira provided a sanctuary where Flumf could hide and train. With the help of Benjamin J Wildclaw and Gira, they worked to create a new collar for Flumf to fit his new look.\n\nUnlike his previous state of derangement, time spent in the Distortion World has allowed Flumf to mature significantly; he is becoming increasingly mentally stable and composed. While he still carries the weight of his past—rooted in the fusion with Resha, he aims to finish what started.",
 	"link": "https://toyhou.se/16277380.flumf/16622206.altered" 
@@ -145,6 +159,7 @@
 	"name": "Crimson",
   	"height": "",
   	"age": "480",
+	"chronoage": "60",
 	"date": "Jan 9, 2022",
 	"bio": "After Crimson heard of his brother's death, he blamed Flumf for it, and sought for revenge. Nearly killing Flumf to then leave him to die on his own. Unknown to him Resha found him on the brink of death, and decided to fuse with Flumf. Believing he was the last of his family, he would go on a massacre for domination of the world. Years past until he felt a connection to his brother awaken again. Now with the confirmation that his brother is alive. He aims to finish what started.",
 	"link": "https://toyhou.se/16277884.crimson" 
@@ -155,7 +170,8 @@
   	"name": "Lulu",
   	"height": "",
   	"age": "",
-  	"date": "Apr 26, 2021",
+  	"chronoage": "",
+	"date": "Apr 26, 2021",
 	"bio": "---",
 	"link": "" 
 },
@@ -165,7 +181,8 @@
   	"name": "Gira",
   	"height": "",
   	"age": "IMMORTAL",
-  	"date": "Jul 12, 2021",
+  	"chronoage": "",
+	"date": "Jul 12, 2021",
 	"bio": "Close friends with Resha, Flumf, and Tina. He provided a safe space for Resha within his Distortion World, offering her a place to visit and unwind whenever she needed it. He was responsible for creating the \"Distortion Collars\" that allowed Resha to travel between her realm and his own. During Crimson's rampage in the overworld, Gira provided refuge for Flumf; together with Benjamin J Wildclaw, they'd create a new collar for Flumf (Altered Form), and Gira would then train Flumf for his upcoming final battle with his brother.",
 	"link": "https://toyhou.se/16196161.gira" 
 },
@@ -175,7 +192,8 @@
   	"name": "Tina",
   	"height": "",
   	"age": "IMMORTAL",
-  	"date": "Nov 2, 2020",
+  	"chronoage": "",
+	"date": "Nov 2, 2020",
 	"bio": "Tina served as the overhead leader of the sanctioned area she shared with Gira. While maintaining her position, she was secretly visited by Theta to receive tasks designed to test and expand her influence over others. These trials eventually led to her promotion into a cosmic god, known as Kuromori.",
 	"link": "https://toyhou.se/16277804.kuromori-tina" 
 },
@@ -184,8 +202,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Eugene.webp",
   	"name": "Eugene",
   	"height": "",
-  	"age": "32",
-  	"date": "Jan 28, 2022",
+  	"age": "38",
+  	"chronoage": "",
+	"date": "Jan 28, 2022",
 	"bio": "Eugene is a caring sweetheart who takes on the persona of Maverick the Rockstar by night. While he is mostly shy towards anyone outside his close friend group, his rockstar persona is energetic, serious, and rude—but only as an act towards fans.",
 	"link": "https://toyhou.se/16279134.maverick/16657112.eugene" 
 },
@@ -194,8 +213,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Maverick.webp",
   	"name": "Maverick | The Rockstar",
   	"height": "",
-  	"age": "32",
-  	"date": "Jan 28, 2022",
+  	"age": "38",
+  	"chronoage": "",
+	"date": "Jan 28, 2022",
   	"bio": "Maverick is the rockstar persona of Eugene. A caring sweetheart by day, and an egotistical performer by night. While Eugene is mostly shy towards anyone outside his close friend group, Maverick is pretty energetic, serious, and rude, but only as an act towards fans. His stage career taught him how to stand up and protect those he loves by any means necessary.",
   	"link": "https://toyhou.se/16279134.maverick" 
 },
@@ -205,7 +225,8 @@
   	"name": "Eros Lovecore | The Mayor",
   	"height": "",
   	"age": "",
-  	"date": "Feb 9, 2023",
+  	"chronoage": "",
+	"date": "Feb 9, 2023",
 	"bio": "Mayor of The Isle, sharing love and positivity",
 	"link": "" 
 },
@@ -215,7 +236,8 @@
   	"name": "Galileo",
   	"height": "",
   	"age": "",
-  	"date": "Apr 9, 2023",
+  	"chronoage": "",
+	"date": "Apr 9, 2023",
   	"bio": "Galileo came from a distance region to possibly start his own business. Hear a popular Cafe was selling their business, so he took the opportunity, and purchased it himself. With no friends on The Isle, and not used to their local customs he got all his news from the in-house tv, but would soon quickly began to learn from 5 frequent customers.",
   	"link": "" 
 },
@@ -224,8 +246,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rocko.webp",
   	"name": "Rocko Stoneson | The Protege",
   	"height": "",
-  	"age": "",
-  	"date": "Aug 21, 2023",
+  	"age": "19",
+  	"chronoage": "",
+	"date": "Aug 21, 2023",
 	"bio": "With a dream of being famous, him and his close friend Luna lived their simple lives together with a basic job until a run in with Eugene (Maverick) changed their lives. Now as Maverick's pupil, learning the ways of life as a future Rockstar under Korumak's Alternative Collection (KAC)",
 	"link": "" 
 },
@@ -234,8 +257,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Luna.webp",
   	"name": "Luna",
   	"height": "",
-  	"age": "",
-  	"date": "Oct 5, 2024",
+  	"age": "18",
+  	"chronoage": "9",
+	"date": "Oct 5, 2024",
 	"bio": "Luna never had a family growing up, finding a sibling like bond with Rocko, sticking close at all opportunities. Living a simple life until meet Eugene taking both of them under his wing to provide her the family she always wanted.",
 	"link": "" 
 },
@@ -244,8 +268,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nova.webp",
   	"name": "Nova",
   	"height": "",
-  	"age": "",
-  	"date": "Jan 10, 2022 (OG Early 2010)",
+  	"age": "38",
+  	"chronoage": "",
+	"date": "Jan 10, 2022 (OG Early 2010)",
   	"bio": "Abandoned at birth alongside her brother Tyler, Nova grew on her own surviving how she could. Managing to work out her life she settled on become a P.E teacher in The Isle school. She mated to Elliot, and is mother to Gabriel",
 	"link": "", 
 	"extra": "Nova and him were split as kids since she was caught by a trainer to end up having a relationship with her trainer pokephilia but they decided to go their separate ways to avoid getting into too much trouble (thats a different story) which ended up with her finding her long lost brother Tyler"
@@ -255,8 +280,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Gabriel.webp",
   	"name": "Gabriel",
   	"height": "",
-  	"age": "",
-  	"date": "Jun 21, 2022",
+  	"age": "18",
+  	"chronoage": "",
+	"date": "Jun 21, 2022",
   	"bio": "Gabriel is the only child of Nova and Elliot, two of the strongest mons on the Isle. He's a bully in school but loves his sister, strawberries, and is a friend to foreign creatures",
   	"link": "" 
 },
@@ -265,7 +291,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Blaster.webp",
 	"name": "Blaster | The Detective",
 	"height": "6'03 (1.9m)",
-	"age": "",
+	"age": "36",
+	"chronoage": "",
 	"date": "Dec 15, 2021",
 	"bio": "Blaster's been for the people all his life. Greeting any newcomers to the Isle, and making many friends along the way. He has seen many things that some should never see, but made it his goal so nobody would have to see it. After being hired by Apostle Wake, it now made his goals possible to serve and protect the people from harm. Making friends with Tyler taught him to not let hardship bring him down, and to have as much fun as possible while doing what he likes. Now he's been called to action to hunt down the elusive target that stole the Ventus Maelstrom Staff.",
 	"link": "" 
@@ -275,8 +302,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/David.webp",
  	"name": "David Wildclaw | The Champion",
 	"height": "",
-	"age": "",
-  	"date": "Nov 26, 2021 (OG Early 2010)",
+	"age": "23",
+  	"chronoage": "",
+	"date": "Nov 26, 2021 (OG Early 2010)",
 	"bio": "David was adopted by Benjamin after losing his parents in The Great Firestorm on The Isle. Now the strongest on The Isle and is the founder of The Guardians, influencing majority of the decisions for the safety of the inhabitants living on The Isle. He past the leadership on to Hereford, now partaking in The Isle tournaments as a famous entertainer.",
 	"link": "" 
 },
@@ -285,8 +313,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Tyler.webp",
   	"name": "Tyler",
   	"height": "",
-  	"age": "",
-  	"date": "Nov 26, 2021 (OG Early 2010)",
+  	"age": "38",
+  	"chronoage": "",
+	"date": "Nov 26, 2021 (OG Early 2010)",
 	"bio": "Abandoned at birth alongside his sister Nova, both separated during their childhood. Tyler was raised by a group of ████████ until receiving an anonymous letter on the location of his sister. He managed to pick up a job babysitting for Hereford thanks to his step brother's connection to Elliot. While babysitting he gain the attention of Benjamin, who would take him in to train him along side David. After hearing of his training, Hereford would invite him to join the Guardians. One day after babysitting Tyler would spot his future mate. Later having a Cyndaquil son named Joshua, then to adopt an Zorua years later. \n \nReceiving intense training from David and Benjamin, Tyler is set to becoming the next Champion of The Isle.",
 	"link": "" 
 },
@@ -295,8 +324,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Apostle.webp",
   	"name": "Apostle Wake | The Sheriff",
   	"height": "",
-  	"age": "",
-  	"date": "Mar 4, 2023",
+  	"age": "174",
+  	"chronoage": "58",
+	"date": "Mar 4, 2023",
 	"bio": "One of the three ancient protectors of The Isle, Apostle would form the earliest police force. Later hiring Blaster as his new Detective. He now isolates his self in his work, as Sheriff of The Isle",
 	"link": "" 
 },
@@ -305,8 +335,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Caspian.webp",
   	"name": "Caspian",
 	"height": "9'6 (2.9m)",
-  	"age": "",
-  	"date": "Jun 14, 2022",
+  	"age": "162",
+  	"chronoage": "54",
+	"date": "Jun 14, 2022",
   	"bio": "Caspian is one of the three ancient protectors of The Isle. Constantly seen relaxing, eating apples on their mountain. Used to mostly care for themself, until meeting a special Mew that would change their morals for the better. Now they are always watching the Island from a distance, only to appearing if it is in danger. Last sighted during \"The Great Firestorm\", helping Benjamin putting out the fire while he saved the fleeing citizens. Myths been formed after their first sighting, never to be seen again in public. Many attempts to search for them, but could never find a trace. Only a few knows of their existence being true, but only Apostle Wake knows of their resting location.",
 	"link": "https://toyhou.se/16455751.caspian" 
 },
@@ -314,9 +345,10 @@
 	"id": 32,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elliot.webp",
   	"name": "Elliot | Guardian Strength",
-  	"height": "80",
-  	"age": "",
-  	"date": "Jun 21, 2021 (OG Early 2010)",
+  	"height": "",
+  	"age": "80",
+  	"chronoage": "40",
+	"date": "Jun 21, 2021 (OG Early 2010)",
 	"bio": "One of the three Guardian leaders. Elliot brings the physical strength to the trio, being Hereford|Hereford's closest friend, mates with Nova, and father of Gabriel.",
 	"link": "" 
 },
@@ -326,7 +358,8 @@
   	"name": "Hereford | Second in Command",
   	"height": "",
   	"age": "44",
-  	"date": "Jun 15, 2022 (OG Early 2010)",
+  	"chronoage": "",
+	"date": "Jun 15, 2022 (OG Early 2010)",
 	"bio": "A former second-in-command of Reaper's Clan. Following The Great Firestorm, which claimed his mate, he sought to protect his son, ████. He secretly dissociated from Reaper and was accepted into The Guardians by Kulta specifically to escape Reaper's influence. While he retains his lethal assassin skills, he serves as the second-in-command to Kulta.",
 	"link": "" 
 },
@@ -334,9 +367,10 @@
 	"id": 34,
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kulta.webp",
   	"name": "Kulta | The Founding Guardian",
-  	"height": "98",
-  	"age": "",
-  	"date": "Nov 17, 2022 (OG Early 2010)",
+  	"height": "",
+  	"age": "98",
+  	"chronoage": "49",
+	"date": "Nov 17, 2022 (OG Early 2010)",
 	"bio": "As one of the three Guardian leaders, Kulta is the founder of The Guardians. He oversees the group's operations, providing the vision and strategic planning for the organization. ",
 	"link": "" 
 },
@@ -346,7 +380,8 @@
   	"name": "Plume",
   	"height": "",
   	"age": "",
-  	"date": "Apr 28, 2022",
+  	"chronoage": "",
+	"date": "Apr 28, 2022",
   	"bio": "She was the leader of a Gryphon clan and love research and gems before theta brought her to this universe \nshe is curious and analytical \nLikes shiny things",
 	"link": "" 
 },
@@ -356,6 +391,7 @@
 	"name": "Benjamin J. Wildclaw",
 	"height": "",
 	"age": "43",
+	"chronoage": "",
 	"date": "Sep 23, 2021 (OG 2009)",
 	"bio": "Benjamin was once a prominent industrialist and innovator in The Druron Kingdom, known for his laboratory where he mass-produced unique inventions. After being kidnapped by Kenna and experimented on to become a mindless super-weapon, he escaped with his mind intact but plagued by uncontrollable rage blackouts. He fled to The Isle to live in hiding, eventually becoming a guardian figure after helping save citizens during \"The Great Firestorm\" alongside Caspian. Accompanied by his loyal owl companion, Darwin—who serves as a vital anchor and stabilizer during his volatile episodes——Now living in seclusion, Ben serves as a mentor, adopting David and training Tyler to become the next champions of the island. \n\nFollowing his adoption of David, Benjamin's intellectual curiosity led him to uncover ancient books of myths and legends. Utilizing his immense engineering knowledge, he successfully constructed a portal to the Distortion World. It was through this gateway that he made contact with the deities Gira and Tina, establishing a profound connection between the mortal world of The Isle and the supernatural realms beyond. Soon working directly with Gira to engineer a new collar for Flumf before returning to his land.",
 	"link": "https://toyhou.se/16278980.benjamin-j-wildclaw" 
@@ -366,7 +402,8 @@
   	"name": "Gregory Wildclaw",
   	"height": "",
   	"age": "",
-  	"date": "Nov 8, 2021 (OG Early 2010)",
+  	"chronoage": "",
+	"date": "Nov 8, 2021 (OG Early 2010)",
 	"bio": "---",
 	"link": "" 
 },
@@ -375,8 +412,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Keith.webp",
   	"name": "Keith",
   	"height": "4'05 (1.35m)",
-  	"age": "26",
-  	"date": "Mar 7, 2022",
+  	"age": "32",
+  	"chronoage": "",
+	"date": "Mar 7, 2022",
   	"bio": "Keith, an Imperial Dragon, is a pretty jolly, naïve, and caring guy. A devastating conflict in his past caused his family to split apart, leaving him adrift. Seeking a new beginning, he travels across the world with the hope of finding a place where he can truly belong and find his purpose again. One thing is for sure: he'll never abandon his doll friend, Fern. \n\nSeeking a fresh start away from the turmoil of his past, Keith journeys to The Isle, drawn by its potential as a land of opportunity for those looking to rebuild. While there, he keeps his past connections a secret as he navigates the local landscape. He eventually meets and forms a bond with Theodore, who becomes a key ally in his journey. At the suggestion of Lora, both he and Theodore join the newly developing The Scouts team, which already includes Thomas, Lora, and Solstice.\n\nWhile on the team the group would form a bond and uncover the atrocities that Reaper was creating behind the scene on The Isle. After an attack by Reaper they would be saved by Solstice and would learn her ties with Reaper forming an rift between the group, but it would be Keith's compassion and determination that held the group together forming his status as the unofficial leader of the group, leading them to the defeat of Reaper and his clan.\n\nKeith, now mates with Theodore, is the official leader of his team in The Pathfinder Guild recruiting new members.",
 	"link": "https://toyhou.se/16578860.keith" 
 },
@@ -385,8 +423,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Theodore.webp",
   	"name": "Theodore",
   	"height": "",
-  	"age": "28",
-  	"date": "May 1, 2023",
+  	"age": "34",
+  	"chronoage": "",
+	"date": "May 1, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -396,6 +435,7 @@
 	"name": "Keith (Older)",
 	"height": "",
 	"age": "32",
+	"chronoage": "",
 	"date": "Mar 7, 2022 (Jul 11, 2024)",
 	"bio": "Keith the Diamond Hakamo-o is the creator of Acryliccs Arts. He's a pretty jolly, naïve, and caring guy. Used to living with Resha's family, becoming besties with Kyu and Victoria, and like a little brother to Zeku. The massive fight between Flumf and Crimson, would caused the family to split apart. Resha would give Keith the ownership of KAC before removing all contacts. Keith currently travels across the world in hopes of finding her again, but one thing for sure is that he'll never abandon his substitute doll friend, Fern. Now he finds himself on The Isle, meeting the locals while keeping his connections to the legendries a secret. He would eventually meet and form a relationship with Theodore, who would later help Keith in his adventures in finding his caretaker.",
 	"link": "" 
@@ -406,7 +446,8 @@
   	"name": "Theodore (Older)",
   	"height": "",
   	"age": "34",
-  	"date": "May 1, 2023 (Apr 22, 2025)",
+  	"chronoage": "",
+	"date": "May 1, 2023 (Apr 22, 2025)",
 	"bio": "---",
 	"link": "" 
 },
@@ -415,8 +456,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Lora.webp",
   	"name": "Lora",
   	"height": "",
-  	"age": "",
-  	"date": "Jun 24, 2024",
+  	"age": "34",
+  	"chronoage": "",
+	"date": "Jun 24, 2024",
 	"bio": "---",
 	"link": "" 
 },
@@ -425,8 +467,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Thomas.webp",
   	"name": "Thomas",
   	"height": "",
-  	"age": "",
-  	"date": "Apr 30, 2022 (OG Early 2010)",
+  	"age": "36",
+  	"chronoage": "",
+	"date": "Apr 30, 2022 (OG Early 2010)",
 	"bio": "---",
 	"link": "" 
 },
@@ -435,8 +478,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Solstice.webp",
  	"name": "Solstice",
   	"height": "",
-  	"age": "",
-  	"date": "Jul 30, 2023",
+  	"age": "34",
+  	"chronoage": "",
+	"date": "Jul 30, 2023",
   	"bio": "Solstice’s strength was both her blessing and her burden within the Ashen Veil Tribe. While celebrated as top of her class in the tribe - a title earned through relentless training alongside Silvia and Brite – she often felt isolated by her raw power, struggling to reconcile it with the tribe's emphasis on balance and harmony. Their graduation was abruptly halted by the return of Litih, an exiled dark mage whose defeat required all their combined skill. Following the ceremony’s conclusion, Solstice chose a path diverging from her peers, seeking solitude on a remote Isle where she could connect with her own kind. \n\nHowever, survival demanded compromise, and she reluctantly accepted a position as an assassin under the ruthless Lucario leader, Reaper. The weight of each life taken chipped away at her soul until she encountered Krow, a young Grovyle whose vulnerability resonated deeply within her. Unable to reconcile Reaper’s brutality with her conscience, Solstice defied his orders, rescuing Krow and plotting an escape. \n\nSeeking refuge and purpose, Solstice infiltrated a newly forming Scouts clan, where she met Keith, Theodore, and Lora – individuals who would become invaluable allies. Together, they exposed Reaper’s operation, transforming the Scouts into The Pathfinder Guild, an organization dedicated to exploration, protection, and justice. Solstice now embraces a life of peace and camaraderie within the Guild, finally finding belonging and using her strength for good – a far cry from the solitary assassin she once was.",
 	"link": "" 
 },
@@ -445,8 +489,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Elias.webp",
   	"name": "Elias",
   	"height": "",
-  	"age": "",
-  	"date": "Jun 11, 2024",
+  	"age": "18",
+  	"chronoage": "",
+	"date": "Jun 11, 2024",
 	"bio": "Elias is partners with Koa in The Pathfinder Guild.",
 	"link": "" 
 },
@@ -455,8 +500,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Koa.webp",
   	"name": "Koa",
   	"height": "",
-  	"age": "",
-  	"date": "Jul 2, 2024",
+  	"age": "19",
+  	"chronoage": "",
+	"date": "Jul 2, 2024",
 	"bio": "Koa is partners with Elias in The Pathfinder Guild.",
 	"link": "" 
 },
@@ -465,7 +511,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Reaper.webp",
 	"name": "Reaper",
 	"height": "",
-	"age": "",
+	"age": "41",
+	"chronoage": "",
 	"date": "Jul 31, 2023",
 	"bio": "---",
 	"link": "" 
@@ -475,8 +522,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krow.webp",
   	"name": "Krow",
   	"height": "",
-  	"age": "",
-  	"date": "Nov 14, 2023",
+  	"age": "19",
+  	"chronoage": "",
+	"date": "Nov 14, 2023",
 	"bio": "Krow joined Reaper's Clan at a young age thinking it would be ticket to becoming the strongest Grovyle on the Isle, but instead was shown that wasn't Reaper's plan. He was forced to kill innocents. Out of guilt. and trauma, he would stay in hiding from Reaper's Clan over the years, but would eventually stumble across Gabriel.",
 	"link": "" 
 },
@@ -485,7 +533,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Alastor.webp",
 	"name": "Alastor",
 	"height": "",
-	"age": "",
+	"age": "58",
+	"chronoage": "",
 	"date": "Jul 31, 2023",
 	"bio": "---",
 	"link": "" 
@@ -496,6 +545,7 @@
 	"name": "Girabsol",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Aug 9, 2022",
 	"bio": "Following Tina's orders to kill whoever won the battle between brothers. However, Flumf unexpectedly lived and won, forcing Gira to follow orders and kill his best friend. \n\nAshamed and enraged by what he was forced to do, he abandoned Tina and the Distortion World, leaving everyone else to find an attempt of correcting his mistake by resurrecting Flumf. He would travel to The Legendary Palace as a way to find his solution in a different world; after exploring, he realized he'd needed a better disguise and used his Griseous Orb to create an entirely new form for himself in order to find what he seek in secret.",
 	"link": "https://toyhou.se/16196161.gira/18257869.girasol" 
@@ -505,8 +555,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Milo.webp",
   	"name": "Milo Heartwood",
   	"height": "11'06 (3.5m)",
-  	"age": "126",
-  	"date": "Feb 17, 2023",
+  	"age": "104",
+  	"chronoage": "26",
+	"date": "Feb 17, 2023",
   	"bio": "Born within the confines of a secluded town in the The Druron Kingdom, Milo was placed under the protection of Vulkor following the request of his parents during a time of great upheaval for his species. While he lived a peaceful life on a farm, he remained largely unaware of his true heritage as one of the Crystal Hearted Dragons. The local villagers were well-acquainted with his kind and trusting nature; though it often led him into trouble, they took their vow to keep him safe and isolated within the town's borders very seriously.\n\nAs he grew, Milo’s curiosity regarding the world beyond the village sparked a sense of rebellion. He frequently attempted to venture out, but was consistently caught and cautioned by those trying to shield him from the dangers of his true nature. \n\nOne day, while working on the farm, he encountered an injured Kobold. Despite their initial caution, a bond formed between them, and Milo took the creature as his companion, naming it Nobuku. Their relationship was tested when Vulkor discovered the outsider and attempted to separate them for the safety of both parties. During a confrontation regarding the restrictions placed upon him, Milo spoke out against his confinement. Recognizing his growth, Vulkor finally revealed the truth: he was not merely a resident of the town, but a survivor of the Crystal Hearted Dragons.",
 	"link": "https://toyhou.se/20688438.milo-heartwood" 
 },
@@ -515,8 +566,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Nobuku.webp",
   	"name": "████████ | Nobuku",
   	"height": "",
-  	"age": "",
-  	"date": "Sep 8, 2022",
+  	"age": "23",
+  	"chronoage": "",
+	"date": "Sep 8, 2022",
 	"bio": "Nobuku is a Kobold who was originally created as a laboratory experiment by the scientist Kenna. Seeking liberation from the modifications imposed upon her, she escaped her confinement in a desperate quest for freedom. During her flight, she sought refuge on a secluded farm, where she encountered Milo, a sheltered Crystal Hearted Dragon living under the guardianship of Vulkor. Despite her initial distrust, a deep bond formed between the two; it was Milo who bestowed the name Nobuku upon her.",
 	"link": "https://toyhou.se/18257188.-" 
 },
@@ -526,6 +578,7 @@
 	"name": "Vulkor",
 	"height": "",
 	"age": "310",
+	"chronoage": "44",
 	"date": "Jul 18, 2023",
 	"bio": "He raised Milo from the request of Milo's parents during the genocide of The Crystal Hearted species executed by the Mad King Zorumaki. Vulkor was a rebellion, battling against the King's army as he was friends with majority of them. In the heat of battle he would get struck by a powerful blast from the opposing forces the would permanently burn and blind the right side of his face.\n\nEldrin Heartwood (Milo's father) would jump in to rescue the fallen Nightfury, getting them both out of the battle to escape to a secluded town they've been refugees in. This town has been secretly housing some of The Crystal Hearted Dragons from the Kingdom, but with the ongoing battle it was only a matter of time till the war reached it. Eldrin, while caring for his wounded friend saw how dangerous it was for him and his species to remain in this town. With his mate recently giving birth, he decided to take charge and rally the remaining of his kin in town, persuading everyone that it'll be best if they all found another place in the to shelter till the ongoing war is over. They began their departure, Eldrin was ready to give his long friend Vulkor a goodbye, but something in his mind snapped. He left and would soon return with an egg.\n\nEldrin would entrust Vulkor and town to give his kid a proper life one without him needing to hide away in a cave. He wanted his kid to live as a normal dragon without knowledge of his heritage till he was ready. As dangerous as it was to leave their not even new born baby behind, Eldrin believed it'll allow their species to live on in the long run. Vulkor accepted the offer and promised to put his life on the line if to protect the kid.\n\nSoon The Crystal Hearted Dragons would depart with nobody in the world but one, knowing where to locate them when the time is right. Vulkor not experienced with fatherhood and would have to adapt quickly as when the egg hatched. It was small defenseless hatchling he would call, Milo.",
 	"link": "" 
@@ -535,7 +588,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Quinn.webp",
 	"name": "Quinn",
 	"height": "",
-	"age": "",
+	"age": "40",
+	"chronoage": "",
 	"date": "May 2, 2023",
 	"bio": "---",
 	"link": "" 
@@ -545,8 +599,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rook.webp",
   	"name": "Rook",
   	"height": "",
-  	"age": "",
-  	"date": "Oct 17, 2023",
+  	"age": "44",
+  	"chronoage": "",
+	"date": "Oct 17, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -555,8 +610,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kenna.webp",
   	"name": "Kenna | The Mad Scientist",
   	"height": "",
-  	"age": "",
-  	"date": "Feb 15, 2023",
+  	"age": "46",
+  	"chronoage": "",
+	"date": "Feb 15, 2023",
 	"bio": "Kenna was a respected and steady healthcare worker. In those years, she was known for her practical approach to healing and her hobby of testing small inventions to improve patient care. Her first major \"experiment\" crafting Talon's arm. While Talon was still a wandering stray, Kenna saw the opportunity to crafted his mechanical arm. She began pushing the boundaries of biology so aggressively that she eventually lost her steady job as a medic, trading the stability of the clinic for the chaotic freedom of invention. \n\nWanting to repay Kenna for the gift of his arm, Talon informed her of an old, rundown building on the outskirts of the city. This structure later becoming her private lab where she could unleash her madness without judgment. \n\nNow the notorious \"Mad Scientist\" with connections in the black market, Kenna views life as nothing more than raw material for advancement. Her primary focus is biological engineering and cybernetics to create super-weapons through the forced augmentation of living beings. She was responsible for the kidnapping and brutal experimentation on Benjamin J Wildclaw, nearly turning him into a mindless primal weapon. \n\nKenna operates as a reliable contractor rather than a full-fledged member of The Alchemical Shadow. While she is deeply connected to the group, she maintains a degree of independence. Because of Kenna's erratic behaviors and unpredictable temper, Louis remains cautious and keeps his distance, preferring not to meet with her directly just yet, primarily uses his millions of rat servants or Talon to contact her for specific tasks. \n\nDriven by both a thirst for scientific breakthrough and a ruthless desire for profit, she operates with an efficiency that makes her one of the most feared figures in the underworld. She is rarely seen without her most loyal companions: Sweet and Sour. These Lizards are more than just pets; they are her primary mounts and enforcers, reflecting her own dominance over nature. If she is ever harmed or threatened in the field, she enjoys a unique form of protection provided by both her loyal lizard enforcers, and or the watchful eye of Talon.",
 	"link": "https://toyhou.se/20202035.kenna" 
 },
@@ -565,7 +621,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Krivus.webp",
 	"name": "Krivus Draconis",
 	"height": "",
-	"age": "",
+	"age": "64",
+	"chronoage": "32",
 	"date": "Jan 5, 2024",
 	"bio": "Krivus is a bastard child of a wealthy, formidable Dragon father and a humble Kobold mother. Long before he was born, his parents sought out help in the Royal Castle. His mother, was pregnant but faced the high probability of not surviving the birth, a risk that would have cost them their egg They traveled to the castle seeking the expertise of the Royal Medic, Louis. Louis formulated a specialized potion that guaranteed the survival of the egg, though it ultimately cost the mother her life. \n\nThe family remained forever grateful for this miracle tho. When Louis was later exiled and went on the run, his father offered his vast Manor as a refuge. Though Louis chose to find his own path in the subterranean depths, he left behind a letter detailing where he could be found should they ever need him. \n\nFollowing the passing of his father, Krivus took over the family legacy. First, he opened the doors of the Manor exclusively to Kobolds, honoring his mother’s sacrifice and his father's dying wish. Years later Krivus would discovered Louis’s old letter. Upon seeking out the Rat King and learning how his own life began with a single potion, Krivus became a loyal to Louis and a member of The Alchemical Shadow. \n\nIn the black market, Krivus is known as \"The Seller.\" He manages the flow of unique individuals, trafficking them through the underworld or delivering them directly to Louis’s private collection. His role is one of curation; he knows the value of a life because he knows the cost of saving one.",
 	"link": "" 
@@ -576,6 +633,7 @@
 	"name": "Zorumaki | The Mad King",
 	"height": "",
 	"age": "362",
+	"chronoage": "51",
 	"date": "Jan 19, 2023",
 	"bio": "When the war reached its breaking point, King Aurith—sovereign of the Dragon Kingdom—opted to end his people’s campaign to preserve what remained. This choice was not accepted by all; Zorumaki, a general within the dragon armies, rejected the call for peace and launched a brutal crusade against The Crystal Hearted Dragons, claiming the life of King Aurith as his first victim.\n\nFollowing the fall of the king, Zorumaki turned his aggression toward Anthromorph territory. Although the ensuing conflict was fierce, the dragon forces were eventually repelled by the advanced technology of the Anthro nations. The war reached its definitive conclusion when a later monarch successfully captured and imprisoned Zorumaki within a deep cell beneath the earth's surface.\n\nWith their primary threat neutralized, the land wars ended, leading to the unification of the four kingdoms under the rule of the Anthromorphs. While history remembers Zorumaki as the architect of the tragedy that decimated The Crystal Hearted Dragons, it remains a secret that several members of the species remain in hiding.",
 	"link": "https://toyhou.se/21016659.zorumaki" 
@@ -586,6 +644,7 @@
 	"name": "Herald Pubby III | The King",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "Aug 5, 2023",
 	"bio": "King Herald Pubby III rules over The Druron Kingdom, inheriting a throne built on the blood and diplomacy of those who came before him. \n\nHe serves as the ultimate authority for the Kingdom's protectors and the Royal Knight Inspectors like Jiro. However, in the shadow of Zorumaki’s recent escape, Pubby finds himself facing his greatest challenge: whether he can hold the line alone, or if he must find a new kind of hero to carry the weight of the crown.",
 	"link": "" 
@@ -595,8 +654,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Silvia.webp",
  	"name": "Silvia 'Ghostclaw'",
  	"height": "",
- 	"age": "",
-  	"date": "Oct 21, 2024",
+ 	"age": "30",
+  	"chronoage": "",
+	"date": "Oct 21, 2024",
 	"bio": "---",
 	"link": "https://toyhou.se/30067030.silvia-ghostclaw" 
 },
@@ -606,6 +666,7 @@
 	"name": "Caleb",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "Oct 27, 2024",
 	"bio": "---",
 	"link": "" 
@@ -616,6 +677,7 @@
 	"name": "Lilith | The Dark Mage",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "May 7, 2025",
 	"bio": "---",
 	"link": "" 
@@ -626,6 +688,7 @@
 	"name": "Imaginary Obelisk | The False God",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Oct 31, 2024",
 	"bio": "A new species arose from the Ancients-Hoomans. After the final ascension of the old benefactors within the depths near Twelve Moons. With their studies of old pearls and scriptures, the hoomans took it upon themselves to create their own God-Imaginary Obelisk. What meant to be an homage to the past civilization was met with mixed reactions before the remaining Ancients left following Twelve Moons' cryogenic incident. Now, Imaginary Obelisk's task is to serve and protect his citizens, hiding away the hoomans from the outside lands of The Druron Kingdom. Leaving the outside world to believe the species to be extinct.",
 	"link": "" 
@@ -636,6 +699,7 @@
 	"name": "IO-X000: Stormpaw | Sour",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "Nov 10, 2024",
 	"bio": "«Iteration Log: The First Elemental Bio-Manipulation»  \nExperiment ID: IO-X000  \nDesignation: Stormpaw \nPurpose: Evaluate the viability of elemental attunement in organic species. Preliminary findings indicate stable and promising energy modulation within the subject. \n\nNotes: The subject appeared with a Slugcat, initially presented as domesticated, evidenced by the presence of a harness secured upon them. Attempts at removal result in spontaneous electrical discharge, indicating significant distress. It appears the subject exhibits an emotional attachment to the object; otherwise, they pose no apparent threat. \n \n- Imaginary Obelisk, Localized",
 	"link": "" 
@@ -645,8 +709,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX001.webp",
   	"name": "IO-X001: Aetherpaw",
   	"height": "",
-  	"age": "6",
-  	"date": "Oct 17, 2023",
+  	"age": "3",
+  	"chronoage": "9",
+	"date": "Oct 17, 2023",
   	"bio": "«Iteration Log: The First Successor Bio-Creation»  \nExperiment ID: IO-X001  \nDesignation: Aetherpaw \nPurpose: To develop a successor to IO-X000 capable of harnessing elemental energy from power crystals. The subject represents a potential solution for restoring Local Iterator Twelve Moons following their cryogenic incident. \n\nNotes: Subject was designed after a slugcat that now frequently visits my chamber. Subject currently possesses access only to the electrical element derived from the crystal embedded within IO-X000. Additional elemental crystals must be located to unlock further capabilities of its uncharged power crystal. The subject exhibits no apparent vulnerability to external environmental hazards; however, it demonstrates resistance to most directives. It is unclear whether this behavior constitutes defiance or a form of mockery. \n\n- Imaginary Obelisk, Localized",
 	"link": "" 
 },
@@ -655,7 +720,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/682.webp",
 	"name": "IO-X002: Titanhide | The Failed Experiment",
   	"height": "",
-  	"age": "",
+  	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Jan 28, 2025",
 	"bio": "«Iteration Log: Failure»  \nExperiment ID: IO-X002  \nDesignation: Titanhide  \nPurpose: Designed as a defensive construct intended to safeguard the citizen population upon ██████. The subject exhibits a robust exterior with ████████████ capabilities and possesses powerful jaws capable of incapacitating hostile entities. Its intelligence is estimated to rival that of ████████████, drawing inspiration from the Druronian dragons. \n\nNotes: The subject poses a significant threat to all known lifeforms-a mistake. Its advanced intelligence is evidenced by complex communication patterns despite fragmented vocalization. The target was not terminated and has subsequently taken refuge beneath my vary structure in the old factorial district of Ironmill Works. \n\nNew observations show that the creature has formed an unusual bond with IO-X003, and a deep hatred for IO-X000. Though these studies have been observed through older Overseers, the subjects do appear to be communicating with one another upon close examination; however, too close proximity of the Overseers would result in enraging the beast. This unexpected form of social interaction makes the most sense, so leaving them undisturbed is fine for now. I will work on replacing Overseers #173 and Overseer #096 with a 600 series to monitor conversations and ensure they are deemed safe for further interactions. \n \n- Imaginary Obelisk, Localized",
 	"extra": "If you see the Never-Corpse, you're already dead - you just don't know it yet. \n\nEven the Rain can't wash it away. \n\nObelisk made it, but the world paid for it.",
@@ -667,7 +733,8 @@
   	"name": "Sweet",
   	"height": "",
   	"age": "",
-  	"date": "Mar 20, 2023",
+  	"chronoage": "",
+	"date": "Mar 20, 2023",
 	"bio": "Sweet is a pet of the mad scientist, Kenna. Raised since birth making her loyal to her commands. During a chase to capture Milo and Nobuku, Sweet would sadly perish in the pursuit leaving just Sour.",
 	"link": "" 
 },
@@ -677,7 +744,8 @@
   	"name": "Sour",
   	"height": "",
   	"age": "",
-  	"date": "Mar 20, 2023",
+  	"chronoage": "",
+	"date": "Mar 20, 2023",
 	"bio": "Sour is a pet of the mad scientist, Kenna. Raised since birth making him loyal to her commands. During a chase to capture Milo and Nobuku, Kenna and Sour would be confronted by Milo's companions on a Cliffside. Falling to the rushing river below. Sour would survive, but his owner wouldn't leaving him alone into the wilderness. \n\nAfter exploring the nearby forest he would be unknowingly stalked by Brite. She would jump to attack him but his domesticated instinct would have him submit instead of retaliate. Brite would take note of the strange Lizard and choose to make it her companion on her mission towards the local Superstructure. \n\nOnce they make it to the structure to learn about the supercomputer running it inside, Imaginary Obelisk. IO would find intrigued in the creatures that managed to climb his structure and enter his chamber. That's when he thought of experimenting with creatures. He would make Sour his first test subject by infusing the power crystal on his harness with their body. \n\nAfter that success he would instruct Brite to steal a dormant power crystal from his city above. With that artifact, he would later create Aetherpaw.",
 	"link": "" 
 },
@@ -686,8 +754,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Brite.webp",
   	"name": "Brite | The Warrior",
   	"height": "",
-  	"age": "12",
-  	"date": "Jan 30, 2025",
+  	"age": "11",
+  	"chronoage": "33",
+	"date": "Jan 30, 2025",
   	"bio": "Brite’s existence is linked to The Ashen Veil tribe, an enigmatic society of albino females dwelling in isolation within the Druron Kingdom. For generations, these females have honed their skills as killers, a tradition passed down through rigorous training and steeped in ancient rituals. Brite was raised from birth to embody this legacy, enduring relentless drills and mastering deadly techniques alongside her classmates, Silvia and Solstice. Their graduation ceremony—a culmination of years of dedication—was tragically disrupted by the sudden reappearance of Lilith, an exiled student rumored to be a user of Dark Magic. \n\nThe defeat of Lilith left Brite grappling with conflicting emotions: pride in her tribe’s strength and a lingering unease about the implications of Dark Magic plaging other parts of the world. Seeking answers and a purpose beyond the confines of tradition, she journeyed East towards a region surrounded by impenetrable overgrowth. Tales circulated throughout the Druron Kingdom spoke of those who dared to enter never returning, attributing their fate to possible use of dark magic. Driven by a desire to protect others from the unseen dangers and perhaps find a way to reconcile her skills with a more peaceful existence, Brite has embarked on a perilous quest—one that may lead her to confront not only external threats but also the very foundations of her beliefs. \n\n«Iteration Log: Druronian Tribal Slugcat»\nDesignation: The Warrior \nNotes: This slugcat is peculiar; she doesn't seem to have come from either the City or the Slugcat Colony below. From the markings I can trace, it originates from a tribe in Druron. It’s strange that this creature managed to wander so far and even climb my very structure. She could learn some manners though, but perhaps I could utilize this species as a solution for a friend. \n\n- Imaginary Obelisk, Localized",
 	"link": "" 
 },
@@ -696,7 +765,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Matt.webp",
 	"name": "The Beast Tamer | Matt",
 	"height": "",
-	"age": "11",
+	"age": "10",
+	"chronoage": "30",
 	"date": "Jan 27, 2025",
 	"bio": "A cautious, solitary tan slugcat living near a scavenger community. He is resourceful, observant, and possesses a degree of familiarity with local scavengers and landmarks like Imaginary Obelisk. His current goal is to assist Rivulet and Spearmaster in finding their way home.",
 	"link": "" 
@@ -706,7 +776,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Rivulet.webp",
 	"name": "Rivulet",
 	"height": "",
-	"age": "11",
+	"age": "10",
+	"chronoage": "30",
 	"date": "Apr 29, 2025",
 	"bio": "From an alternate world, Rivulet found herself waking in a shelter in front of Matt along with her closest friend, Spearmaster whom she affectionately calls \"Speary.\" She was transported to this world during a storm of \"unnatural\" origin. While her high-energy spirit often leads their adventures, she remains deeply protective of those she considers family. Despite being \"just friends,\" with Spearmaster they are often suspected to be mates by outsiders. Currently, she is focused on establishing a permanent home for their group with Matt.",
 	"link": "" 
@@ -716,8 +787,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Spearmaster.webp",
 	"name": "Spearmaster",
 	"height": "",
-  	"age": "19",
-  	"date": "Apr 29, 2025",
+  	"age": "31",
+  	"chronoage": "62",
+	"date": "Apr 29, 2025",
 	"bio": "Engineered by the Iterator Seven Red Suns to deliver vital messages, Spearmaster was transported from an alternate universe along with his closest companion, Rivulet. After waking in this new world, he met Matt soon forming a bond. His hunting style is often described as oddly feral, a trait that Rivulet finds overwhelming but accepts as part of his nature. While he is a slugcat of few words, his role as a protector and anchor for those around him is well-established. He frequently endures the nickname \"Speary\" from Rivulet, despite finding it simplistic; they are often mistaken for mates by others and are currently working with Matt to find a stable home. ",
 	"link": "" 
 },
@@ -727,7 +799,8 @@
   	"name": "Zephyr the Sochuri - WIP",
 	"height": "",
   	"age": "",
-  	"date": "Dec 5, 2023",
+  	"chronoage": "",
+	"date": "Dec 5, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -737,7 +810,8 @@
   	"name": "Taryk the Seikret",
   	"height": "",
   	"age": "",
-  	"date": "Jul 16, 2023",
+  	"chronoage": "",
+	"date": "Jul 16, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -747,7 +821,8 @@
   	"name": "Zirak - WIP",
   	"height": "",
   	"age": "",
-  	"date": "Jun 24, 2023",
+  	"chronoage": "",
+	"date": "Jun 24, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -757,19 +832,21 @@
   	"name": "Death - WIP",
   	"height": "",
   	"age": "IMMORTAL",
-  	"date": "Mar 28, 2022",
+  	"chronoage": "",
+	"date": "Mar 28, 2022",
 	"bio": "---",
 	"link": "" 
 },
 {
     "id": 77,
-  "src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/kid1.webp",
-  "name": "Eevee/Noibat Hybrid - SCRAP",
-  "height": "",
-  "age": "",
-  "date": "Aug 7, 2023",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/kid1.webp",
+  	"name": "Eevee/Noibat Hybrid - SCRAP",
+  	"height": "",
+  	"age": "",
+ 	"chronoage": "",
+	"date": "Aug 7, 2023",
 	"bio": "---",
-"link": "" 
+	"link": "" 
 },
 {
     "id": 78,
@@ -777,7 +854,8 @@
   	"name": "Toto/Eevee - SCRAP",
   	"height": "",
   	"age": "",
-  	"date": "Aug 7, 2023",
+  	"chronoage": "",
+	"date": "Aug 7, 2023",
 	"bio": "---",
 	"link": "" 
 },
@@ -787,7 +865,8 @@
   	"name": "Kyu | Color Sorrow",
   	"height": "",
   	"age": "480",
-  	"date": "- - -",
+  	"chronoage": "60",
+	"date": "- - -",
   	"bio": "As the eldest of the sisters, Kyu is deeply haunted by the past. She was devastated by the loss of Flumf's Zekrom brother and remained reclusive due to the unwanted attention from Crimson. After fleeing their home realm for The Roslom Region, she has been consumed by a profound sadness over the disappearance of her middle sister, Resha. While she struggles to stay present, she relies on the bond she shares with Zeku and Victoria to keep going.",
 	"link": "" 
 },
@@ -796,8 +875,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
   	"name": "IO-X003: Ignisoul | The Guardian of Light",
   	"height": "",
-  	"age": "",
-  	"date": "June 23, 2025",
+  	"age": "IMMORTAL",
+  	"chronoage": "",
+	"date": "June 23, 2025",
   	"bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003 \nDesignation: Ignisoul \nPurpose: This experiment was designed as the successor to the failed subject, Titanhide. The Guardian of Light is intended to properly protect all life forms within the surrounding area, possessing numerous abilities including Grove Revival (produces a radius to heal itself and other creatures), Echo Projections (creates short-lived, semi-solid light clones of itself), and Harmonic Resonance (generates sound waves at tunable frequencies, reducing aggression in other creatures; tested on a Scavenger)—all to further its designated goal.\n\nNotes: The subject has maintained its physical form; however, subsequent observations indicate a tendency for progressive color changes dependent on actions. This is concerning, as the subject appears to be evolving into a corrupted version of itself when attempting to heal other life forms. Furthermore, it demonstrates an accelerated learning rate exceeding initial projections. Inquiry: Is this behavior indicative of loneliness, or simply a manifestation of heightened efficiency? The introduction of designated entities—Stormpaw or Aetherpaw—may prove instrumental in establishing appropriate social interactions. \n\n- Imaginary Obelisk, Localized",
   	"extra": "I regret resorting to using my Experiment's names. I have developed a concern for their well-being.",
 	"link": "" 
@@ -807,8 +887,9 @@
  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/EX003.webp",
   	"name": "IO-X003-A: Ignisoul (Corrupted) | The Guardian of Light",
   	"height": "",
-  	"age": "",
-  	"date": "June 23, 2025",
+  	"age": "IMMORTAL",
+  	"chronoage": "",
+	"date": "June 23, 2025",
   	"bio": "«Iteration Log: Guardian of Light» \nExperiment ID: IO-X003-A \nDesignation: Ignisoul '(Corrupted)' \nPurpose: The Guardian of Light is intended to properly protect all life forms within the surrounding area; however, observations suggest this subject represents a corrupted version of the expected outcome. The creature possesses abilities distinct from its regular form, including Soul-Link (briefly possessing other creatures), Symbiotic Charging (draining residual energy from other creatures), and Triggered Overglow (a last resort of energy expanding into a radiant explosion, blinding and burning unprotected organisms. subject loses its form). \n\nNotes: In this corrupted state, it tends to perform the opposite of its intended purpose, though it never resorts to killing—perhaps indicating a core design limitation preventing further escalation. It still follows directives given while in this form but does display increased aggression. \n\n- Imaginary Obelisk, Localized",
 	"link": "" 
   },
@@ -817,8 +898,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Artificer.webp",
   	"name": "Artificer",
   	"height": "",
-  	"age": "15",
-  	"date": "July 16, 2025",
+  	"age": "28",
+  	"chronoage": "84",
+	"date": "July 16, 2025",
   	"bio": "---",
 	"link": "" 
 },
@@ -827,8 +909,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Shatterjaw.webp",
   	"name": "Shatterjaw | The Leader",
   	"height": "",
-  	"age": "10",
-  	"date": "Oct 28, 2025",
+  	"age": "9",
+  	"chronoage": "27",
+	"date": "Oct 28, 2025",
 	"bio": "---",
 	"link": "" 
 },
@@ -837,7 +920,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Glyphlet.webp",
 	"name": "Glyphlet | The Scribe",
 	"height": "",
-	"age": "11",
+	"age": "10",
+	"chronoage": "30",
 	"date": "May 6, 2026",
 	"bio": "---",
 	"link": "" 
@@ -847,7 +931,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Mossweaver.webp",
 	"name": "Mossweaver",
 	"height": "",
-	"age": "12",
+	"age": "11",
+	"chronoage": "33",
 	"date": "Jan 28, 2028",
 	"bio": "Mossweaver lives in Skyline Ruins. A long abandoned city left by ancient civilization now inhabitant by other Slugcats and Scavengers. \n\nShe's mates with a Scavenger named Kuruk. With involvement of Artificer (who hates Scavengers btw) their relationship managed to change her view point of the species for the better because great friends (some time acquaintances XD). Both would later adopt Tharn as theirs after a series of events. \n\nShe's good at medical practices but doesn't particularly work in the fields either. Her name comes from how her fur resembles moss and her tail draging dirt and twigs as she walks (dw she keeps herself well groomed)",
 	"link": "" 
@@ -858,6 +943,7 @@
 	"name": "Tharn | The Raider",
 	"height": "",
 	"age": "6",
+	"chronoage": "18",
 	"date": "Aug 24, 2025",
 	"bio": "A young Slugcat leader of a Scavenger group called The Raiders. His goal is to show his old colony proof of a safer life on top of The Rainmaker.",
 	"link": ""
@@ -868,6 +954,7 @@
 	"name": "Xylos | The Space Captain",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "Dec 7, 2025",
 	"bio": "---",
 	"link": "" 
@@ -878,6 +965,7 @@
 	"name": "The Watcher | Night",
 	"height": "",
 	"age": "7",
+	"chronoage": "19",
 	"date": "Dec 13, 2025",
 	"bio": "---",
 	"link": "" 
@@ -888,6 +976,7 @@
 	"name": "Subject 512 | The Saint",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Dec 30, 2025",
 	"bio": "Subject 512 was created by GLaSS as an experiment involving the injection and manipulation of Void Fluids within Slugcat physiology. After various tests and designs, he was destined to be the ultimate solution to \"The Great Problem,\" but his overwhelming potential rendered him a perceived \"failure\" in GLaSS's eyes. He was sent and held within The Forbidden Zone, categorized as a risk to be utilized above on the surface. \n\nWithin the underground facility, Subject 256 (The Savior) became his mentor and guide. She eased him into the society built over time in the labyrinth, guided him through trials of the underground, and helped him escape from the facility. During their first interaction, she gave him his signature bandana, which now serves as a token of their enduring bond. Following his departure, Subject 512 earned the title \"The Saint\" among his peers and became a secondary leader alongside The Savior. \n\nHe experienced blurry vague visions of what he should do or has done, or rare glimpses of alternate universe selves appearing as dreams or temporary hallucinations. He would ramble theories about The Cycle to The Savior in private, trusting her with information so others wouldn't think him crazy. Though she tried to help, she couldn't understand anything he described. His visions of being needed elsewhere prompted him to ask for her assistance in leaving the Forbidden Zone to pursue his vague goals. \n\nThe Saint eventually escaped the underground facility and now roams the overworld as a nomadic wanderer, spreading knowledge and wisdom to those who seek it. His exposure to Void Fluids has granted him awareness of The Cycle, the nature of Ascension, and even the existence of parallel versions of himself and others across countless other cycles. When creatures threaten to harm others, he chooses compassion over Ascension, which earns him deep respect from other beings who witness his approach. \n\nHe maintains a profound respect for GLaSS, his creator, never speaking ill of her purpose or revealing his true origins to protect those still held within the Forbidden Zone, whom he considers kin. While aware that \"high beings\" (Delta) are possibility tracking his movements with interest, he remains elusive, preferring to interact with the world on its own terms. He does not seek to rule; he seeks to provide closure for a world caught in an endless loop.",
 	"link": "" 
@@ -897,7 +986,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Hunter.webp",
 	"name": "The Hunter",
 	"height": "",
-	"age": "16",
+	"age": "21",
+	"chronoage": "42",
 	"date": "Jan 5, 2026",
 	"bio": "---",
 	"link": "" 
@@ -908,7 +998,8 @@
   	"name": "Flint | The Hitman",
   	"height": "5'7 (1.7m)",
   	"age": "34",
-  	"date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
+  	"chronoage": "",
+	"date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
   	"bio": "Flint is a skilled and trained hitman, along side with █████ working in the Alchemical Shadow from an young age. He moved to The Isle, changing his name to Dylan in a plan to escape his past. He tries to keep hidden, but still get mysterious contracts for hits at night knowing of his true identity.",
   	"link": "" 
 },
@@ -918,7 +1009,8 @@
   	"name": "Dylan | The Librarian",
   	"height": "5'7 (1.7m)",
   	"age": "34",
-  	"date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
+  	"chronoage": "",
+	"date": "Mar 8, 2022 (Adopted on Oct 10, 2025)",
   	"bio": "Previously working as part of Alchemical Shadow, Flint left The Druron Kingdom to The Isle in hope that he could get a better life in the new place. On The Isle he works as an Art Teacher at the local school, changing his name to Dylan in a plan to escape his past, but began to get strange \"contracts\" in the mail by an anonymous user knowing his real identity.",
   	"link": "" 
 },
@@ -927,8 +1019,9 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Wynndren.webp",
   	"name": "Wynndren",
   	"height": "",
-  	"age": "",
-  	"date": "Jan 10, 2022 (Adopted on Sep 17, 2025)",
+  	"age": "40",
+  	"chronoage": "",
+	"date": "Jan 10, 2022 (Adopted on Sep 17, 2025)",
   	"bio": "---",
   	"link": "" 
 },
@@ -938,6 +1031,7 @@
 	"name": "Korumak",
 	"height": "",
 	"age": "26",
+	"chronoage": "",
 	"date": "Jan 5, 2026",
 	"bio": "Korumak, Founder of Korumak's Records, later Korumak's Alternative Collection. He created the label to find new talent across the world to boost their popularity. After years of fame and money he determined that lifestyle wasn't for him and transferred ownership to Vincent Bitti. \n\nNow Korumak lives his days supporting his town's community. One day meeting a lone individual in an alleyway, Kai, they would form a great bond, becoming close partners over time.",
 	"link": "" 
@@ -948,6 +1042,7 @@
 	"name": "Enot",
 	"height": "",
 	"age": "14",
+	"chronoage": "28",
 	"date": "Mar 2, 2026",
 	"bio": "Co-worker with Sofanthiel. He works as a personal servant to the customers tending, willing to sell his body for their personal satisfaction.",
 	"link": "" 
@@ -958,6 +1053,7 @@
 	"name": "Kai",
 	"height": "",
 	"age": "24",
+	"chronoage": "",
 	"date": "Apr 27, 2026",
 	"bio": "He was found street by Korumak",
 	"link": "" 
@@ -967,7 +1063,19 @@
   	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
 	"name": "Lightness of Golden Beads & The Cartographer",
 	"height": "",
-	"age": "",
+	"age": "IMMORTAL",
+	"chronoage": "11 | 33",
+	"date": "May 15, 2023 (Co-owned on May 5, 2026)",
+	"bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
+	"link": "" 
+},
+{
+  	"id": "97-1",
+  	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/LGBTC.webp",
+	"name": "Lightness of Golden Beads",
+	"height": "",
+	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "May 15, 2023 (Co-owned on May 5, 2026)",
 	"bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
 	"link": "" 
@@ -977,7 +1085,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Cartographer.webp",
 	"name": "The Cartographer",
 	"height": "",
-	"age": "",
+	"age": "11",
+	"chronoage": "33",
 	"date": "May 15, 2023 (Co-owned on May 5, 2026)",
 	"bio": "Cartographer is almost blind, a condition that has haunted it since birth; because of this, it never saw the faces of its relatives clearly. It is omnivorous but practical, often preferring what is easiest to obtain. Following an incident during a storm where it sought shelter in a pile of trash, shards of debris pierced and became fused into its body; while these 'scars' are rarely felt now, they occasionally serve as a defense in the event of sudden danger. After accidentally finding Lightness of Golden Beads, the two formed a bond so strong that Cartographer's family moved to live nearby. It suggests using robo-eyes to assist with territory scans, and enjoys adventures, traveling, and the occasional joy of annoying others in local groups.",
 	"link": "" 
@@ -987,7 +1096,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Bounty.webp",
 	"name": "Talon | The Bounty Hunter",
 	"height": "",
-	"age": "",
+	"age": "36",
+	"chronoage": "",
 	"date": "May 10, 2026",
 	"bio": "Talon began his life as a purposeless orphan scavenging the fringes of civilization, learning to survive by instinct but lacking a true direction. This changed when he crossed paths with Louis during the latter's desperate flight from the royal guard. In those early days of hiding, Talon became Louis’s shadow. He learned the art of survival and the secrets of staying hidden in plain sight, forming a deep kinship with his mentor. \n\nWhile training under Louis, Talon faced a brutal skirmish against a group of rival thieves. During the fight, he lost his original left arm that he initially hid it from Louis to avoid showing any sign of \"weakness\" or disappointment. Seeking a solution without bothering his mentor, he sought out Kenna, who was then a steady healthcare worker with a penchant for invention becoming her first true experiment. \n\nTalon’s prosthetic arm is more than just a replacement limb. Concentrated energy flows from his palm and fingertips, capable of hardening instantly into a physical, glowing rope. He uses this \"tether\" to grapple enemies, swing through the environment, or pull distant objects toward him with brawler-like force. However, the arm demands a price: it is not infinite. When overused, the energy dims, requiring Talon to rest and let the core recharge. Furthermore, because of its alchemical nature, the arm slowly \"eats away\" at his physical body where it connects, making every use a literal sacrifice of his own vitality which Louis supports in any way he can. \n\nTalon is a being of few words and deep secrets. He is a reserved soul who keeps his thoughts guarded, only truly opening up when he is in the company of Louis, whom he views as a father figure. While he is often more talkative and expressive in their private moments, he maintains a stoic, formidable presence for the rest of the world outside of the Alchemical Shadow. While most know him simply as \"The Bounty Hunter,\" his reputation is built on his relentless pursuit and his ability to combine heavy-hitting brawler strikes with the versatile utility of his glowing tether that ensures once a target is caught, there is no escape. Closest to Louis he remain completely loyal as second in command follow any order giving by Louis and no other serving as the primary ambassador for The Alchemical Shadow when Louis requires a face to be shown to the outside world.",
 	"link": "" 
@@ -998,6 +1108,7 @@
 	"name": "Sofanthiel | Follower of Gamma Vandal Maelstrom",
 	"height": "",
 	"age": "43",
+	"chronoage": "",
 	"date": "June 18, 2026",
 	"bio": "Receiving random funds from a mysterious source, Sofanthiel would create a strip club within The Druron Kingdom. Eventually meeting and hiring Enot as his co-owner and main server.",
 	"link": "" 
@@ -1007,7 +1118,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Kuruk.webp",
 	"name": "Kuruk",
 	"height": "",
-	"age": "",
+	"age": "16",
+	"chronoage": "32",
 	"date": "Aug 8, 2026",
 	"bio": "He is a kind Scavenger that is trying to help Artificer overcome her hatred of his species. When his mate was kidnapped he became more agitated and frustrated but is still trying to care for Artificer.",
 	"link": "" 
@@ -1018,6 +1130,7 @@
 	"name": "Roo Villain",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "2026",
 	"bio": "---",
 	"link": "" 
@@ -1028,6 +1141,40 @@
 	"name": "Straw, Lime & Sapphire",
 	"height": "",
 	"age": "",
+	"chronoage": "",
+	"date": "Jul 26, 2026",
+	"bio": "Straw, Lime, and Sapphire are all thieves",
+	"link": "" 
+},
+{
+	"id": "103-1",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Trio.webp",
+	"name": "Straw",
+	"height": "",
+	"age": "",
+	"chronoage": "",
+	"date": "Jul 26, 2026",
+	"bio": "Straw, Lime, and Sapphire are all thieves",
+	"link": "" 
+},
+{
+	"id": "103-2",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Trio.webp",
+	"name": "Lime",
+	"height": "",
+	"age": "",
+	"chronoage": "",
+	"date": "Jul 26, 2026",
+	"bio": "Straw, Lime, and Sapphire are all thieves",
+	"link": "" 
+},
+{
+	"id": "103-3",
+	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Trio.webp",
+	"name": "Sapphire",
+	"height": "",
+	"age": "",
+	"chronoage": "",
 	"date": "Jul 26, 2026",
 	"bio": "Straw, Lime, and Sapphire are all thieves",
 	"link": "" 
@@ -1038,6 +1185,7 @@
 	"name": "Jiro Yuzme Kipper",
 	"height": "",
 	"age": "",
+	"chronoage": "",
 	"date": "Sep 2, 2026",
 	"bio": "Jiro Yuzme Kipper is the embodiment of stoic discipline. In the heat of battle or during high-stakes inspections, he remains almost entirely expressionless, projecting an aura of unshakeable calm. However, beneath this exterior lies a stubborn and occasionally hot-headed nature. He is fiercely loyal to King Pubby, whose orders are the only ones he truly respects; he harbors a deep disdain for taking direction from anyone else in higher or similar positions than him. \n\nWhen off duty, Jiro's stoic mask slips significantly. While he remains naturally stubborn, his personality becomes more expressive as he seeks out Sofanthiel’s club to unwind with Enot.\n\nHe serves as a high-ranking Royal Knight Inspector for the Kingdom of Druron. His primary responsibility is overseeing the royal guards, ensuring that the kingdom's protectors remain true to their duties and free from internal corruption. His fighting style is characterized by patience and extreme skill—he waits for the perfect opening before striking with decisive precision.\n\nA notable personal fact is his proficiency as a swimmer, a testament to his otter lineage, though he rarely finds himself in water during official business.",
 	"link": ""
@@ -1048,6 +1196,7 @@
 	"name": "GLaSS | Genetic Logic and Systemic Sentinel",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "",
 	"bio": "GLaSS (Genetic Logic & Systemic Sentinel) was constructed by the Ancients to serve as a safety valve for the world’s progress. While other Iterators pursue the success of Ascension, GLaSS is dedicated to the study of testing. She manages \"The Forbidden Zone,\" a subterranean labyrinth where volatile species and past experiments are contained. Her primary duties include stress-testing new technologies, biological mutations, and potential Ascension candidates to determine their breaking points before they can impact the wider world.\n\nTo GLaSS, her creators were never parents; they were merely Project Managers who finished their shift and walked out of the building, leaving her with the keys to a basement full of leftover toys.\n\nShe acts as the ultimate gatekeeper for the archives of tests preformed. While the Ascensionists often seek her data to avoid repeating historical mistakes, GLaSS makes them work for it, viewing their quest for \"success\" with dismissive amusement. She contributes indirectly to the surface rain cycle via a geothermal cooling system that expels waste water into deep aquifers, which eventually rises as steam/rain.",
 	"link": "" 
@@ -1058,6 +1207,7 @@
 	"name": "Subject 256 | The Savior",
 	"height": "",
 	"age": "18",
+	"chronoage": "36",
 	"date": "Oct 5, 2026",
 	"bio": "Created by GLaSS as Subject 256, she was designed to be a flight abled creature. Now she deliciated herself to help harmonize the surviving subjects dumped into the underground facility. Recognized for her kindness and ability to manage resources, the other experiments came to know her as \"The Savior.\" She serves as the de facto leader of the upper layers, keeping order among the surrounding experiments so that they do not destroy one another or the facility itself. \n\nWhen Subject 512 was dropped into the region under her care, she was the one to ease him into the society that had been built over time. She acted as his mentor, guiding him through the trials of the underground and eventually helping him escape from the facility. During their first interaction time together, he received his now signature bandana from her, which is now acts as a token of their bond. Following his departure, Subject 512 earned the title \"The Saint\" among his peers and became a secondary leader alongside Subject 256. She remains within The Forbidden Zone, continuing to protect and guide those who are still trapped in the labyrinth below.",
 	"link": "" 
@@ -1067,7 +1217,8 @@
 	"src": "https://www.weebly.com/editor/uploads/3/7/7/8/37780017/custom_themes/550079465868642798/files/headers/Louis.webp",
 	"name": "Louis | The Rat King of the Underground",
 	"height": "7'5\" (2.26m)",
-	"age": "68",
+	"age": "112",
+	"chronoage": "56",
 	"date": "Oct 27, 2026",
 	"bio": "Louis is a study in contradictions: he is simultaneously scrappy yet regal, tenacious yet pragmatic. He possesses a unique perspective on survival. He does not seek to conquer, rather, he seeks to build a sustainable \"utopia\" for those who have been discarded by the system. He is an honest ruler who values autonomy over forced harmony, preferring to lead from the shadows rather than under a spotlight. \n\nOnce the most trusted Royal Medic in The Druron Kingdom, and confidant of King Pubby II, Louis was a master of healing. He proposed a daring, slightly radical plan: the formulation of Eternal Youth through the alchemical blending of youth and elderly blood. While Pubby II valued the stability of the present, Louis looked toward the infinite future. \n\nThis ambition led to his exile. Sentenced to death by the stoic Jiro, Louis staged a dramatic escape, incinerating nearly all his past works but saving his precious notebook of potions. \n\nNow, Louis rules from the subterranean depths as the head of The Alchemical Shadow. He transforms the \"scraps\" of the upper world into refined treasures, maintaining a symbiotic relationship with Talon. While Talon hunts and captures the sinners of the kingdom, Louis refines their essence into potions that keep him young and provide his people with alchemical wonders. \n\nLouis is a master of subtlety. Because the syndicate remains largely secret he prefers to let his millions of rat servants act as messengers and eyes. These rats each possess distinct personalities and names remembered only by Louis, serving as the nervous system of the syndicate. \n\nWhile he rules through these millions, Louis shares a rare, intimate bond with Talon. To the rest of the world, Louis is a mysterious mastermind; to Talon, he is a father figure. While Talon acts as the visible ambassador and \"hand\" of the syndicate, Louis remains its private ruler who only truly opens up in the quiet moments spent with his most trusted hunter.",
 	"link": "" 
@@ -1078,6 +1229,7 @@
 	"name": "Zehst",
 	"height": "",
 	"age": "IMMORTAL",
+	"chronoage": "",
 	"date": "Mar 30, 2021 (Adopted on Nov 16, 2026)",
 	"bio": "",
 	"link": "" 
@@ -1088,9 +1240,9 @@
 	"name": "Livrinia",
 	"height": "",
 	"age": "348",
+	"chronoage": "58",
 	"date": "Jan 27, 2021 (Adopted on Nov 16, 2026)",
 	"bio": "",
 	"link": "" 
 }
 ]
-
